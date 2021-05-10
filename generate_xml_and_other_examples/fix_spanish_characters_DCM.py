@@ -27,7 +27,7 @@ def main():
         project_list = [project.name for project in path.iterdir() if project.name.endswith('.xml')]
     else:
         # in case you don't want all projects to be checked, you can create a list of selected projects for fixing
-        project_list ={'DCM2018.xml'}
+        project_list ={'DCM2018.xml','DCM2017.xml','DCM2016.xml','DCM2015.xml','DCM2014.xml','DCM2013.xml','DCM2012.xml','DCM2011.xml','DCM2010.xml','DCM2009.xml','DCM2008.xml','DCM2007.xml','DCM2006.xml','DCM2005.xml','DCM2004.xml','DCM2003.xml','DCM2002.xml'}
 
     chars_to_replace = {'Ã³': 'ó', 'Ã¡': 'á', 'Ã±': 'ñ', 'Ãº': 'ú', 'Ã©': 'é'}
 
