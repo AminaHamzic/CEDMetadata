@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="528b8858-b1c0-4eaa-8453-9f50737b4146" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="RENTA2015" DisplayName="Renta 2015" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2015" CountryName="" DocLinksAsString="" Categories="Renta 2015;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="528b8858-b1c0-4eaa-8453-9f50737b4146" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="RENTA2015" DisplayName="Atlas de distribución de renta de los hogares 2015" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2015" CountryName="" DocLinksAsString="" Categories="Renta 2015;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
