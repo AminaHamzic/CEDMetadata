@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="bfec0e5a-2010-42d5-adce-6826221728a9" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="BICE2011" DisplayName="Bienes Inmuebles de CaracterÃ­sticas Especiales" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2011" CountryName="" DocLinksAsString="" Categories="Bienes Inmuebles de CaracterÃ­sticas Especiales;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="bfec0e5a-2010-42d5-adce-6826221728a9" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="BICE2011" DisplayName="Bienes Inmuebles de Características Especiales" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2011" CountryName="" DocLinksAsString="" Categories="Bienes Inmuebles de CaracterÃ­sticas Especiales;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
