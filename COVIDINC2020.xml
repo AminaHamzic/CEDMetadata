@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="b2c398ef-4761-4634-bcf6-1763582691b7" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="COVIDINC2020" DisplayName="Incidencia mensual del Covid-19" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2020" CountryName="" DocLinksAsString="" Categories="COVID-19;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="b2c398ef-4761-4634-bcf6-1763582691b7" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="COVIDINC2020" DisplayName="Incidencia mensual del Covid-19" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2020" CountryName="" DocLinksAsString="" Categories="Covid-19;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -674,6 +674,6 @@
     </SurveyDataset>
   </SurveyDatasets>
   <Categories>
-    <string>COVID-19</string>
+    <string>Covid-19</string>
   </Categories>
 </survey>
