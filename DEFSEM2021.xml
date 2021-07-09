@@ -70,7 +70,7 @@
       </datasets>
       <iterations />
       <tables>
-        <table GUID="0b3eeba5-59fd-42bd-b677-2a684a16749a" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="DEFSEM2021_001" displayName="DEFSEM2021_001" title="Primer trimestre: defunciones base, acumuladas y variación relativa con 2019" titleWrapped="Primer trimestre: defunciones base, acumuladas y variación relativa con 2019" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="DEFSEM2021_001" source="" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="0b3eeba5-59fd-42bd-b677-2a684a16749a" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="DEFSEM2021_001" displayName="DEFSEM2021_001" title="Primer trimestre: defunciones base, acumuladas y variación relativa con 2019" titleWrapped="Primer trimestre: defunciones base, acumuladas y variación relativa con 2019" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="Covid-19;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="DEFSEM2021_001" source="" DefaultColumnCaption="" samplingInfo="">
           <mVisibleInMaps>true</mVisibleInMaps>
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
