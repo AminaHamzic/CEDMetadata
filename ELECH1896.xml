@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="4d87e59e-c8ad-4ee6-b0a4-86a4d3e37034" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECH1896" DisplayName="Elecciones 1896" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1896" CountryName="" DocLinksAsString="" Categories="Elecciones 1896;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="4d87e59e-c8ad-4ee6-b0a4-86a4d3e37034" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECH1896" DisplayName="Elecciones a las Cortes Generales 1896" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1896" CountryName="" DocLinksAsString="" Categories="Elecciones 1896;Elecciones históricas;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -135,5 +135,6 @@
   </SurveyDatasets>
   <Categories>
     <string>Elecciones 1896</string>
+    <string>Elecciones históricas</string>
   </Categories>
 </survey>

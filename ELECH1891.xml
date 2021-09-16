@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="7af7a687-0e37-44c2-8392-a08942ac745a" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECH1891" DisplayName="Elecciones 1891" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1891" CountryName="" DocLinksAsString="" Categories="Elecciones 1891;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="7af7a687-0e37-44c2-8392-a08942ac745a" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECH1891" DisplayName="Elecciones a las Cortes Generales 1891" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1891" CountryName="" DocLinksAsString="" Categories="Elecciones 1891;Elecciones históricas;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -138,5 +138,6 @@
   </SurveyDatasets>
   <Categories>
     <string>Elecciones 1891</string>
+    <string>Elecciones históricas</string>
   </Categories>
 </survey>

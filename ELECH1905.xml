@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="15d51cdb-34b9-4864-89e1-5bf14f15f041" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECH1905" DisplayName="Elecciones 1905" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1905" CountryName="" DocLinksAsString="" Categories="Elecciones 1905;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="15d51cdb-34b9-4864-89e1-5bf14f15f041" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECH1905" DisplayName="Elecciones a las Cortes Generales 1905" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1905" CountryName="" DocLinksAsString="" Categories="Elecciones 1905;Elecciones históricas;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -142,5 +142,6 @@
   </SurveyDatasets>
   <Categories>
     <string>Elecciones 1905</string>
+    <string>Elecciones históricas</string>
   </Categories>
 </survey>
