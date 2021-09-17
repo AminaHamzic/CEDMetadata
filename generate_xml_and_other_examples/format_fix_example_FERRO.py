@@ -185,7 +185,7 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'FERRO1860.xml','FERRO1870.xml','FERRO1880.xml','FERRO1890.xml','FERRO1900.xml','FERRO1910.xml','FERRO1920.xml','FERRO1930.xml','FERRO1940.xml','FERRO1950.xml','FERRO1960.xml','FERRO1970.xml','FERRO1980.xml','FERRO1990.xml','FERRO2000.xml','FERRO2010.xml'}
+    projects = {'FERRO1860.xml','FERRO1870.xml','FERRO1880.xml','FERRO1890.xml','FERRO1900.xml','FERRO1910.xml','FERRO1920.xml','FERRO1930.xml','FERRO1940.xml','FERRO1950.xml','FERRO1960.xml','FERRO1970.xml','FERRO1980.xml','FERRO1990.xml','FERRO2000.xml','FERRO2010.xml','FERRO2021.xml'}
 
     project_template = 'FERRO1850.xml'
 
