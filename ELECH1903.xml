@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="d4a48580-1449-407c-976c-2d91fbfcc8ca" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECH1903" DisplayName="Elecciones a las Cortes Generales 1903" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1903" CountryName="" DocLinksAsString="" Categories="Elecciones 1903;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="d4a48580-1449-407c-976c-2d91fbfcc8ca" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECH1903" DisplayName="Elecciones a las Cortes Generales 1903" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1903" CountryName="" DocLinksAsString="" Categories="Elecciones 1903;Elecciones históricas;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -118,8 +118,8 @@
           <variable GUID="42b46b15-981f-412b-9f6d-23518b9038f1" MTT="#ORG.ELECH1903_005.ELECH1903_005_ELECH_V25" MIBtext="" UVID="" PT="" PI="false" PN="CED_Partit1" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELECH1903_004_ELECH_V23" label="Partido más votado" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="PartidoMasVotadoHist" AggregationStr="None" BubbleSizeHint="1" />
           <variable GUID="2e309798-f3f2-48b1-a964-e5e12c1508da" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELECH1903_004_ELECH_V24" label="Votos" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" />
         </table>
-        <table GUID="1a61e8db-9c24-49bd-ab87-004e622eb8c3" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="ELECH1903_005" displayName="ELECH1903_005" title="Detalle Partido más votado" titleWrapped="Detalle Partido más votado" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Elecciones históricas;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="005" uniqueTableId="ELECH1903_005" source="" DefaultColumnCaption="" samplingInfo="">
-          <mVisibleInMaps>true</mVisibleInMaps>
+        <table GUID="1a61e8db-9c24-49bd-ab87-004e622eb8c3" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="ELECH1903_005" displayName="ELECH1903_005" title="Detalle Partido más votado" titleWrapped="Detalle Partido más votado" titleShort="" universe="none" Visible="true" VisibleInMaps="false" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Elecciones históricas;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="005" uniqueTableId="ELECH1903_005" source="" DefaultColumnCaption="" samplingInfo="">
+          <mVisibleInMaps>false</mVisibleInMaps>
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
           </OutputFormat>
@@ -146,5 +146,6 @@
   </SurveyDatasets>
   <Categories>
     <string>Elecciones 1903</string>
+    <string>Elecciones históricas</string>
   </Categories>
 </survey>
