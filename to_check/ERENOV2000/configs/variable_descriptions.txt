@@ -1,0 +1,16 @@
+ERENOV_V1,"Instalaciones (altas)",0
+ERENOV_V2,"energías residuales",1
+ERENOV_V3,"energía solar",1
+ERENOV_V4,"energía eólica",1
+ERENOV_V5,"energía hodroeléctrica ",1
+ERENOV_V6,"energía biomasa / biolíquida",1
+ERENOV_V7,"energía geotérmica, hidrotérmica, olas, mareas, etc",1
+ERENOV_V8,"otras energías",1
+ERENOV_V17,"Potencia instalada Mw (altas)",0
+ERENOV_V18,"energías residuales",1
+ERENOV_V19,"energía solar",1
+ERENOV_V20,"energía eólica",1
+ERENOV_V21,"energía hodroeléctrica ",1
+ERENOV_V22,"energía biomasa / biolíquida",1
+ERENOV_V23,"energía geotérmica, hidrotérmica, olas, mareas, etc",1
+ERENOV_V24,"otras energías",1

@@ -1,0 +1,39 @@
+﻿AENA_V1,"TOTAL Pasajeros anuales",0
+AENA_V2,"Enero",0
+AENA_V3,"Febrero",0
+AENA_V4,"Marzo",0
+AENA_V5,"Abril",0
+AENA_V6,"Mayo",0
+AENA_V7,"Junio",0
+AENA_V8,"Julio",0
+AENA_V9,"Agosto",0
+AENA_V10,"Septiembre",0
+AENA_V11,"Octubre",0
+AENA_V12,"Noviembre",0
+AENA_V13,"Diciembre",0
+AENA_V14,"TOTAL Operaciones anuales",0
+AENA_V15,"Enero",0
+AENA_V16,"Febrero",0
+AENA_V17,"Marzo",0
+AENA_V18,"Abril",0
+AENA_V19,"Mayo",0
+AENA_V20,"Junio",0
+AENA_V21,"Julio",0
+AENA_V22,"Agosto",0
+AENA_V23,"Septiembre",0
+AENA_V24,"Octubre",0
+AENA_V25,"Noviembre",0
+AENA_V26,"Diciembre",0
+AENA_V27,"TOTAL Mercancias anuales",0
+AENA_V28,"Enero",0
+AENA_V29,"Febrero",0
+AENA_V30,"Marzo",0
+AENA_V31,"Abril",0
+AENA_V32,"Mayo",0
+AENA_V33,"Junio",0
+AENA_V34,"Julio",0
+AENA_V35,"Agosto",0
+AENA_V36,"Septiembre",0
+AENA_V37,"Octubre",0
+AENA_V38,"Noviembre",0
+AENA_V39,"Diciembre",0

@@ -1,0 +1,82 @@
+# this will be used as a display name in metadata file
+projectName: "Energías renovables 2000"
+
+# will be used in R script as PROJECT ID and in python script for metadata, it will be used as a prefix for table names
+projectId: "ERENOV2000"
+
+user: none
+password: none
+
+# optional, just for your information
+projectDate: 2019-08-06
+
+# db name, it will be used in R script to create tables and in metadata file
+dbName: ERENOV2000
+
+# year for which the dataset is relevant
+projectYear: 2000
+
+metadataFileName: ERENOV2000.xml
+
+# file with variable descriptions, if folder is entered multiple files can be used
+variableDescriptionLocation: L:\data\ERENOV\ERENOV2000\configs\variable_descriptions.txt
+
+# list of files to be processed, neccesary for file order, leave blank ('') if you don't care for file name order
+fileNamesList: L:\data\ERENOV\ERENOV2000\configs\files_list.csv
+
+# used by R script, this is a directory with data for processing, this is where data from "fileNamesList" should be located
+sourceDirectory: L:\data\ERENOV\ERENOV2000\raw_data\
+
+# used by R script, final metadata file will be created here
+outputDirectory: L:\data\ERENOV\ERENOV2000\
+
+# used by R script, directory with geo_level_information,all_geotypes_and_sumlev,geoDivisionsBydatasetId
+configDirectory: L:\data\ERENOV\ERENOV2000\configs\
+
+# optional settings, you can leave them as they are for most of the time
+# used when db credentials are not required but windows authentication is used instead, usually used for test_4tablesing purposes, if server is set to prime set this to "no"
+trustedConnection: yes
+
+# use it when you want to start numbering tables in database from number other than 1, if unsure leave 1
+tableNumberingStartsFrom: 1
+
+# used by R script to set if it should write database tables, used for test_4tablesing when you don't want to write to db
+writeToDatabase: yes
+
+# set maximum number of variables in a SQL table
+maxTableWidth: 200
+
+server: LOCALHOST\SQLEXPRESS
+
+#########################################################################################################
+# geo level information, Geo_level, Geo_level_name, FIPS length, PARTIAL FIPS length
+#########################################################################################################
+
+geoLevelInfo:
+
+# THE FIRST GEO LEVEL SUCH AS UNITED STATES, WORLD, CANADA, UK, EUROPE, ETC MUST HAVE SHORTER FIPS CODE LENGHT THAN ANY OTHER GEO NESTED UNDER
+   -
+        - SL010 # Geo_level
+        - TOTAL    # Geo_level_name
+        - "2"    # FIPS_length
+        - "2"    # PARTIAL_FIPS_length
+        - "0"    # Indent
+   -
+        - SL030    # Geo_level
+        - CCAA    # Geo_level_name
+        - "4"    # FIPS_length
+        - "2"    # PARTIAL_FIPS_length
+        - "1"    # Indent
+   -
+        - SL040    # Geo_level
+        - PROVINCIA    # Geo_level_name
+        - "6"    # FIPS_length
+        - "2"    # PARTIAL_FIPS_length
+        - "2"    # Indent
+   -
+        - SL050    # Geo_level
+        - MUNICIPIO    # Geo_level_name
+        - "11"    # FIPS_length
+        - "5"    # PARTIAL_FIPS_length
+        - "3"    # Indent
+...
