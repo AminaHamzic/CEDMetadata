@@ -88,7 +88,7 @@
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
-          <variable GUID="d9e2c3c3-049a-48d5-8fd7-cb47ee92d4e7" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="EPAINS2020_003_EPAINS_V3" label="Poblaci&#243;n de 25-29 a&#241;os con educaci&#243;n universitaria" qLabel="Poblaci&#243;n de 25-29 a&#241;os con educaci&#243;n universitaria" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="CED_060" AggregationStr="Rate|||100000" BubbleSizeHint="1"/>
+          <variable GUID="d9e2c3c3-049a-48d5-8fd7-cb47ee92d4e7" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="EPAINS2020_003_EPAINS_V3" label="Poblaci&#243;n de 30-34 a&#241;os con educaci&#243;n universitaria" qLabel="Poblaci&#243;n de 30-34 a&#241;os con educaci&#243;n universitaria" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="CED_060" AggregationStr="Rate|||100000" BubbleSizeHint="1"/>
         </table>
       </tables>
     </SurveyDataset>
