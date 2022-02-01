@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="f061467b-4b08-41ab-b6f9-a6456cefabb4" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="BICE2011" DisplayName="Bienes Inmuebles de Características Especiales 2011" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2011" CountryName="" DocLinksAsString="" Categories="Bienes Inmuebles de CaracterÃ­sticas Especiales;Infraestrcuturas;Medio ambiente;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="f061467b-4b08-41ab-b6f9-a6456cefabb4" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="BICE2011" DisplayName="Bienes Inmuebles de Características Especiales 2011" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2011" CountryName="" DocLinksAsString="" Categories="Bienes Inmuebles de CaracterÃ­sticas Especiales;Infraestrcuturas;Medio ambiente;Infraestructuras;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -110,5 +110,6 @@
     <string>Bienes Inmuebles de CaracterÃ­sticas Especiales</string>
     <string>Infraestrcuturas</string>
     <string>Medio ambiente</string>
+    <string>Infraestructuras</string>
   </Categories>
 </survey>

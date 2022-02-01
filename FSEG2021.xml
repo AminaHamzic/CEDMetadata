@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="75c33a63-5872-4ce5-80e8-457a4df68c15" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="FSEG2021" DisplayName="Fuerzas y Seguridad del estado" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2021" CountryName="" DocLinksAsString="" Categories="Fuerzas y Seguridad del estado;Criminología;Crimen;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="75c33a63-5872-4ce5-80e8-457a4df68c15" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="FSEG2021" DisplayName="Fuerzas y Seguridad del estado 2021" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2021" CountryName="" DocLinksAsString="" Categories="Fuerzas y Seguridad del estado;Criminología;Crimen;Seguridad ciudadana;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -95,5 +95,6 @@
     <string>Fuerzas y Seguridad del estado</string>
     <string>Criminología</string>
     <string>Crimen</string>
+    <string>Seguridad ciudadana</string>
   </Categories>
 </survey>
