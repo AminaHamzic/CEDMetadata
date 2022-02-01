@@ -94,7 +94,7 @@
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
           </OutputFormat>
-          <variable GUID="b5f13dae-f966-421e-b1a6-93b8add88c5c" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="paleta_suelo" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="COBERT2018_002_COBERT_V7" label="Principal cobertura del suelo" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="paleta_suelo" AggregationStr="None" BubbleSizeHint="1" />
+          <variable GUID="b5f13dae-f966-421e-b1a6-93b8add88c5c" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="paleta_suelo" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="COBERT2018_002_COBERT_V7" label="Principal cobertura del suelo" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="PRIN_COBERT" AggregationStr="None" BubbleSizeHint="1" />
         </table>
       </tables>
     </SurveyDataset>
