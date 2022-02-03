@@ -76,7 +76,7 @@
       </datasets>
       <iterations/>
       <tables>
-        <table GUID="78593040-e878-4f45-891c-873d648428ab" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_001" displayName="VIV2020_001" title="Parque de viviendas" titleWrapped="Parque de viviendas" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="VIV2020_001" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_001" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="78593040-e878-4f45-891c-873d648428ab" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_001" displayName="VIV2020_001" title="Parque de viviendas" titleWrapped="Parque de viviendas" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="VIV2020_001" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_001" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -86,7 +86,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="948126f9-4bd2-48a5-8265-de7baa76933b" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_002" displayName="VIV2020_002" title="Construcci&#243;n de vivienda libre" titleWrapped="Construcci&#243;n de vivienda libre" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="VIV2020_002" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_002" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="948126f9-4bd2-48a5-8265-de7baa76933b" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_002" displayName="VIV2020_002" title="Construcci&#243;n de vivienda libre" titleWrapped="Construcci&#243;n de vivienda libre" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="VIV2020_002" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_002" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -95,7 +95,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="8a958a6e-5112-4ea9-a6af-b99adde319e9" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_003" displayName="VIV2020_003" title="Compraventa seg&#250;n tipo" titleWrapped="Compraventa seg&#250;n tipo" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="VIV2020_003" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_003" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="8a958a6e-5112-4ea9-a6af-b99adde319e9" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_003" displayName="VIV2020_003" title="Compraventa seg&#250;n tipo" titleWrapped="Compraventa seg&#250;n tipo" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="VIV2020_003" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_003" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -105,7 +105,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="8f496c94-bfc4-4b44-92a4-d4888afce8e3" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_004" displayName="VIV2020_004" title="Compraventa seg&#250;n antig&#252;edad" titleWrapped="Compraventa seg&#250;n antig&#252;edad" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="004" uniqueTableId="VIV2020_004" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_004" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="8f496c94-bfc4-4b44-92a4-d4888afce8e3" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_004" displayName="VIV2020_004" title="Compraventa seg&#250;n antig&#252;edad" titleWrapped="Compraventa seg&#250;n antig&#252;edad" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="004" uniqueTableId="VIV2020_004" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_004" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -115,7 +115,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="915821ca-9e3c-450b-a82f-43ff49e77e62" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_005" displayName="VIV2020_005" title="Compraventa seg&#250;n tipolog&#237;a del edificio" titleWrapped="Compraventa seg&#250;n tipolog&#237;a del edificio" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="005" uniqueTableId="VIV2020_005" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_005" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="915821ca-9e3c-450b-a82f-43ff49e77e62" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_005" displayName="VIV2020_005" title="Compraventa seg&#250;n tipolog&#237;a del edificio" titleWrapped="Compraventa seg&#250;n tipolog&#237;a del edificio" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="005" uniqueTableId="VIV2020_005" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_005" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -125,7 +125,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="92ef0cab-af6a-48fd-a000-30e66d2494f9" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_006" displayName="VIV2020_006" title="Compraventa de vivienda nueva seg&#250;n tipolog&#237;a del edificio" titleWrapped="Compraventa de vivienda nueva seg&#250;n tipolog&#237;a del edificio" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="006" uniqueTableId="VIV2020_006" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_006" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="92ef0cab-af6a-48fd-a000-30e66d2494f9" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_006" displayName="VIV2020_006" title="Compraventa de vivienda nueva seg&#250;n tipolog&#237;a del edificio" titleWrapped="Compraventa de vivienda nueva seg&#250;n tipolog&#237;a del edificio" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="006" uniqueTableId="VIV2020_006" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_006" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -135,7 +135,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="620b1e01-211d-4675-a7d6-8d9aaff47728" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_007" displayName="VIV2020_007" title="Compraventa vivienda segunda mano seg&#250;n tipolog&#237;a del edificio" titleWrapped="Compraventa vivienda segunda mano seg&#250;n tipolog&#237;a del edificio" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="007" uniqueTableId="VIV2020_007" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_007" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="620b1e01-211d-4675-a7d6-8d9aaff47728" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_007" displayName="VIV2020_007" title="Compraventa vivienda segunda mano seg&#250;n tipolog&#237;a del edificio" titleWrapped="Compraventa vivienda segunda mano seg&#250;n tipolog&#237;a del edificio" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="007" uniqueTableId="VIV2020_007" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_007" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -145,7 +145,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="27102979-9cc6-4732-8bd0-157b57f34536" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_008" displayName="VIV2020_008" title="Compradores de vivienda seg&#250;n residencia" titleWrapped="Compradores de vivienda seg&#250;n residencia" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="008" uniqueTableId="VIV2020_008" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_008" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="27102979-9cc6-4732-8bd0-157b57f34536" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_008" displayName="VIV2020_008" title="Compradores de vivienda seg&#250;n residencia" titleWrapped="Compradores de vivienda seg&#250;n residencia" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="008" uniqueTableId="VIV2020_008" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_008" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -156,7 +156,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="1bd91521-3460-4146-afa8-422693c8d154" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_009" displayName="VIV2020_009" title="Compradores residentes en Espa&#241;a seg&#250;n pa&#237;s de nacimiento" titleWrapped="Compradores residentes en Espa&#241;a seg&#250;n pa&#237;s de nacimiento" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="009" uniqueTableId="VIV2020_009" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_009" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="1bd91521-3460-4146-afa8-422693c8d154" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_009" displayName="VIV2020_009" title="Compradores residentes en Espa&#241;a seg&#250;n pa&#237;s de nacimiento" titleWrapped="Compradores residentes en Espa&#241;a seg&#250;n pa&#237;s de nacimiento" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="009" uniqueTableId="VIV2020_009" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_009" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -166,7 +166,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="8a9d445b-86e5-45e2-8878-f3a7400f2087" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_010" displayName="VIV2020_010" title="Compradores NO residentes en Espa&#241;a seg&#250;n pa&#237;s de nacimiento" titleWrapped="Compradores NO residentes en Espa&#241;a seg&#250;n pa&#237;s de nacimiento" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="010" uniqueTableId="VIV2020_010" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_010" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="8a9d445b-86e5-45e2-8878-f3a7400f2087" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_010" displayName="VIV2020_010" title="Compradores NO residentes en Espa&#241;a seg&#250;n pa&#237;s de nacimiento" titleWrapped="Compradores NO residentes en Espa&#241;a seg&#250;n pa&#237;s de nacimiento" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="010" uniqueTableId="VIV2020_010" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_010" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -176,7 +176,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="4a4046d9-79ff-4585-8963-3baec675b1b3" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_011" displayName="VIV2020_011" title="Localizaci&#243;n de la vienda seg&#250;n la provincia de residencia del comprador" titleWrapped="Localizaci&#243;n de la vienda seg&#250;n la provincia de residencia del comprador" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="011" uniqueTableId="VIV2020_011" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_011" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="4a4046d9-79ff-4585-8963-3baec675b1b3" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_011" displayName="VIV2020_011" title="Localizaci&#243;n de la vienda seg&#250;n la provincia de residencia del comprador" titleWrapped="Localizaci&#243;n de la vienda seg&#250;n la provincia de residencia del comprador" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="011" uniqueTableId="VIV2020_011" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_011" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -187,7 +187,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="afe0d982-51f5-4a54-81f7-6ba9abc8592f" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_012" displayName="VIV2020_012" title="Valor tasado medio de la vivienda (euros/m2)" titleWrapped="Valor tasado medio de la vivienda (euros/m2)" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="012" uniqueTableId="VIV2020_012" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_012" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="afe0d982-51f5-4a54-81f7-6ba9abc8592f" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VIV2020_012" displayName="VIV2020_012" title="Valor tasado medio de la vivienda (euros/m2)" titleWrapped="Valor tasado medio de la vivienda (euros/m2)" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="012" uniqueTableId="VIV2020_012" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Mercado de la vivienda;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VIV2019_012" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
