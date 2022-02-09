@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="e9999774-1957-4acf-80f7-fefc45e88a40" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECH1907" DisplayName="Elecciones a las Cortes Generales 1907" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1907" CountryName="" DocLinksAsString="" Categories="Elecciones 1907;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="e9999774-1957-4acf-80f7-fefc45e88a40" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECH1907" DisplayName="Elecciones a las Cortes Generales 1907" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1907" CountryName="" DocLinksAsString="" Categories="Elecciones 1907;Elecciones históricas;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -148,7 +148,7 @@
           </OutputFormat>
           <variable GUID="8e496440-064b-4a5d-acf8-1816059979a4" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELECH1907_007_ELECH_V36" label="Votos a candidatos oficiales" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" />
           <variable GUID="8e9ada9a-0f27-4153-b92e-37fbd94fc725" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELECH1907_007_ELECH_V37" label="Solidaritat Catalana" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" />
-          <variable GUID="67141766-0c2a-4a39-a902-04067a36df8e" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELECH1907_007_ELECH_V38" label="PC-PL-PR" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" />
+          <variable GUID="67141766-0c2a-4a39-a902-04067a36df8e" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELECH1907_007_ELECH_V38" label="Dinásticos/Lerrouxistas" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" />
         </table>
         <table GUID="35165f78-5977-4339-9e5a-46e95fba4491" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="ELECH1907_008" displayName="ELECH1907_008" title="Coaliación más votada" titleWrapped="Coaliación más votada" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Elecciones históricas;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="008" uniqueTableId="ELECH1907_008" source="" DefaultColumnCaption="" samplingInfo="">
           <mVisibleInMaps>true</mVisibleInMaps>
@@ -171,5 +171,6 @@
   </SurveyDatasets>
   <Categories>
     <string>Elecciones 1907</string>
+    <string>Elecciones históricas</string>
   </Categories>
 </survey>
