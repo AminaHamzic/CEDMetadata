@@ -9,13 +9,13 @@
   </Documentation>
   <geoTypes>
     <geoType MapDisplayScale="" GUID="fe41ad48-b916-4a46-8608-80230f20718c" SearchPriorityCode="" Name="SL010" Label="TOTAL" QLabel="TOTAL" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="TOTAL" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="0" Sumlev="010" FipsCodeLength="2" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="TOTAL" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
-      <Visible>true</Visible>
+      <Visible>false</Visible>
     </geoType>
     <geoType MapDisplayScale="" GUID="7fda98a2-c95c-440a-a147-78488cba6e4f" SearchPriorityCode="" Name="SL030" Label="CCAA" QLabel="CCAA" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="CCAA" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="1" Sumlev="030" FipsCodeLength="4" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="CCAA" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
-      <Visible>true</Visible>
+      <Visible>false</Visible>
     </geoType>
     <geoType MapDisplayScale="" GUID="a934dc1a-5fbc-4ad5-aa7a-949d72f0ccb7" SearchPriorityCode="" Name="SL040" Label="PROVINCIA" QLabel="PROVINCIA" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="PROVINCIA" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="2" Sumlev="040" FipsCodeLength="6" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="PROVINCIA" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
-      <Visible>true</Visible>
+      <Visible>false</Visible>
     </geoType>
     <geoType MapDisplayScale="" GUID="e06ac446-be86-4c29-aef4-42bc2595b528" SearchPriorityCode="" Name="SL050" Label="MUNICIPIO" QLabel="MUNICIPIO" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="MUNICIPIO" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="3" Sumlev="050" FipsCodeLength="11" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="MUNICIPIO" FipsCodePartialLength="5" Notes="" DocSectionLinks="">
       <Visible>true</Visible>
@@ -34,7 +34,7 @@
     </datasets>
     <iterations />
     <tables>
-      <table GUID="e73264e4-ecf1-4555-b69f-9e1074d9987b" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="G001" displayName="G1." title="Geography Identifiers" titleWrapped="Geography Identifiers" titleShort="" universe="none" Visible="false" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="G001" source="" DefaultColumnCaption="" samplingInfo="">
+      <table GUID="e73264e4-ecf1-4555-b69f-9e1074d9987b" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="G001" displayName="G1." title="Geography Identifiers" titleWrapped="Geography Identifiers" titleShort="" universe="none" Visible="false" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="G001" source="" DefaultColumnCaption="" samplingInfo="">
         <mVisibleInMaps>true</mVisibleInMaps>
         <OutputFormat TableTitle="" TableUniverse="">
           <Columns />
