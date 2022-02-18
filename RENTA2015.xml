@@ -108,14 +108,14 @@
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
           </OutputFormat>
-          <variable GUID="20bee5ea-b6ee-4f52-88d8-4deddd3487bb" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="RENTA2015_003_RENTA_V8" label="Índice de Gini" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="" AggregationStr="Rate|||100000" BubbleSizeHint="1" />
+          <variable GUID="20bee5ea-b6ee-4f52-88d8-4deddd3487bb" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="RENTA2015_003_RENTA_V8" label="Índice de Gini" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="GiniIndex100" AggregationStr="Rate|||100000" BubbleSizeHint="1" />
         </table>
         <table GUID="716f9b3e-7b8b-4875-8a91-b779b8b1943f" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="RENTA2015_004" displayName="RENTA2015_004" title="Distribución de la renta P80/P20" titleWrapped="Distribución de la renta P80/P20" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Renta;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="004" uniqueTableId="RENTA2015_004" source="RENTA2015_004" DefaultColumnCaption="" samplingInfo="">
           <mVisibleInMaps>true</mVisibleInMaps>
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
           </OutputFormat>
-          <variable GUID="20bee5ea-b6ee-4f52-88d8-4deddd3487bc" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="RENTA2015_004_RENTA_V9" label="Distribución de la renta P80/P20" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="" AggregationStr="Rate|||100000" BubbleSizeHint="1" />
+          <variable GUID="20bee5ea-b6ee-4f52-88d8-4deddd3487bc" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="RENTA2015_004_RENTA_V9" label="Distribución de la renta P80/P20" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="distrib_renta" AggregationStr="Rate|||100000" BubbleSizeHint="1" />
         </table>
       </tables>
     </SurveyDataset>
