@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="62944eea-86fd-4fed-af20-0568ca945d34" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ALCAS1979" DisplayName="Alcaldesas 1979" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1979" CountryName="" DocLinksAsString="" Categories="Alcaldesas 1979;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="62944eea-86fd-4fed-af20-0568ca945d34" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ALCAS1979" DisplayName="Alcaldesas 1979" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1979" CountryName="" DocLinksAsString="" Categories="Alcaldesas 1979;Género;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -77,14 +77,14 @@
       </datasets>
       <iterations />
       <tables>
-        <table GUID="d2cc34a5-365b-4a09-a3b4-0d626674d3db" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="ALCAS1979_001" displayName="ALCAS1979_001" title="Mujeres alcaldesas" titleWrapped="Mujeres alcaldesas" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Género;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="ALCAS1979_001" source="" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="d2cc34a5-365b-4a09-a3b4-0d626674d3db" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="ALCAS1979_001" displayName="ALCAS1979_001" title="Municipios con mujeres alcaldesas" titleWrapped="Municipios con mujeres alcaldesas" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Género;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="ALCAS1979_001" source="" DefaultColumnCaption="" samplingInfo="">
           <mVisibleInMaps>true</mVisibleInMaps>
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
           </OutputFormat>
           <variable GUID="91587d50-7a43-42bc-a66b-1bb7cc2b0d9d" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ALCAS1979_001_ALCAS_V1" label="Mujeres alcadesas" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="RD_BINARY" AggregationStr="None" BubbleSizeHint="1" />
         </table>
-        <table GUID="7dab3b8d-a262-4f6e-8cf8-3b515c7dbbf6" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="ALCAS1979_002" displayName="ALCAS1979_002" title="Alcaldías según sexo" titleWrapped="Alcaldías según sexo" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="Género;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="ALCAS1979_002" source="" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="7dab3b8d-a262-4f6e-8cf8-3b515c7dbbf6" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="ALCAS1979_002" displayName="ALCAS1979_002" title="Alcaldías según sexo por províncias y comunidades autónomas" titleWrapped="Alcaldías según sexo por províncias y comunidades autónomas" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="Género;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="ALCAS1979_002" source="" DefaultColumnCaption="" samplingInfo="">
           <mVisibleInMaps>true</mVisibleInMaps>
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
@@ -107,5 +107,6 @@
   </SurveyDatasets>
   <Categories>
     <string>Alcaldesas 1979</string>
+    <string>Género</string>
   </Categories>
 </survey>
