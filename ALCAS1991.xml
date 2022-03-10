@@ -94,7 +94,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="3bb10217-de4c-4d39-9bf5-66413c6d4ac5" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="ALCAS1991_003" displayName="ALCAS1991_003" title="Concejal&#237;as seg&#250;n sexo por provincias y comunidades aut&#243;nomas" titleWrapped="Concejal&#237;as seg&#250;n sexo por provincias y comunidades aut&#243;nomas" universe="none" Visible="true" TreeNodeCollapsed="true" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="ALCAS1991_003" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="G&#233;nero;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="ALCAS2019_003" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="3bb10217-de4c-4d39-9bf5-66413c6d4ac5" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="ALCAS1991_003" displayName="ALCAS1991_003" title="Concejal&#237;as seg&#250;n sexo" titleWrapped="Concejal&#237;as seg&#250;n sexo" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="ALCAS1991_003" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="G&#233;nero;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="ALCAS2019_003" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
