@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="087e50f5-4723-4348-8bc6-5b34fbef1a03" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="mnp2020" DisplayName="Movimeinto Natural de la Población 2020" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2020" CountryName="" DocLinksAsString="" Categories="Nacimeintos;Defunciones;Matrimonios;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="087e50f5-4723-4348-8bc6-5b34fbef1a03" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="mnp2020" DisplayName="Movimiento Natural de la Población 2020" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2020" CountryName="" DocLinksAsString="" Categories="Nacimeintos;Defunciones;Matrimonios;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
