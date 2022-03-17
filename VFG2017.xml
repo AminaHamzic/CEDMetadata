@@ -118,7 +118,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="8da1c9fe-cc24-4a7d-9cb3-cf4aa999aebc" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2017_006" displayName="VFG2017_006" title="&#195;&#8220;rdenes de protecci&#243;n" titleWrapped="&#195;&#8220;rdenes de protecci&#243;n" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="006" uniqueTableId="VFG2017_006" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_006" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="8da1c9fe-cc24-4a7d-9cb3-cf4aa999aebc" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2017_006" displayName="VFG2017_006" title="&#211;rdenes de protecci&#243;n" titleWrapped="&#211;rdenes de protecci&#243;n" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="006" uniqueTableId="VFG2017_006" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_006" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
