@@ -116,6 +116,13 @@
           <variable GUID="0cd47a78-779a-4531-91ff-a41febdee675" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELEC1993_003_ELEC_V20" label="Otros partidos" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="CED_060" AggregationStr="Add" BubbleSizeHint="1" />
           <variable GUID="5e2d6094-ce71-4484-9d9a-12983895fa34" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELEC1993_003_ELEC_V21" label="Votos en blanco" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="CED_060" AggregationStr="Add" BubbleSizeHint="1" />
         </table>
+        <table GUID="3fa4e6ba-63aa-44e8-94fd-ad39acab28f5" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="ELEC1993_004" displayName="ELEC1993_004" title="Partido más votado" titleWrapped="Partido más votado" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Elecciones generales;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="004" uniqueTableId="ELEC1993_004" source="" DefaultColumnCaption="" samplingInfo="">
+          <mVisibleInMaps>true</mVisibleInMaps>
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns />
+          </OutputFormat>
+          <variable GUID="dbb721ae-5105-499c-9f27-2c86d43bebf2" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="EG1993" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELEC1993_004_ELEC_V22" label="Partido más votado" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="PartidoMassVotado1993" AggregationStr="None" BubbleSizeHint="1" />
+        </table>
       </tables>
     </SurveyDataset>
   </SurveyDatasets>
