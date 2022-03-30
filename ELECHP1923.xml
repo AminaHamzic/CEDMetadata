@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="7f2843ab-9d4a-434b-ad36-8998d4bb968d" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECHP1923" DisplayName="Elecciones provinciales 1923" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1923" CountryName="" DocLinksAsString="" Categories="Elecciones provinciales 1923;Elecciones históricas;Elecciones hsitóricas;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="7f2843ab-9d4a-434b-ad36-8998d4bb968d" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELECHP1923" DisplayName="Elecciones provinciales 1923" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1923" CountryName="" DocLinksAsString="" Categories="Elecciones provinciales 1923;Elecciones Provinciales;Elecciones hsitóricas;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -151,7 +151,7 @@
   </SurveyDatasets>
   <Categories>
     <string>Elecciones provinciales 1923</string>
-    <string>Elecciones históricas</string>
+    <string>Elecciones Provinciales</string>
     <string>Elecciones hsitóricas</string>
   </Categories>
 </survey>
