@@ -122,7 +122,7 @@
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
           </OutputFormat>
-          <variable GUID="f4c73970-8015-4d16-83bb-c942f6a2409f" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="EG2016" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELEC2016_004_ELEC_V23" label="Partido más votado" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="PartidoMassVotado2016" AggregationStr="None" BubbleSizeHint="1" />
+          <variable GUID="f4c73970-8015-4d16-83bb-c942f6a2409f" MTT="#ORG.ELEC2016_002.ELEC2016_002_ELEC_V6" MIBtext="" UVID="" PT="" PI="false" PN="EG2016" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELEC2016_004_ELEC_V23" label="Partido más votado" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="PartidoMassVotado2016" AggregationStr="None" BubbleSizeHint="1" />
         </table>
       </tables>
     </SurveyDataset>
