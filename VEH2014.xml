@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="4355711f-c85c-4492-9dfe-b6b16fd8af01" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="VEH2014" DisplayName="Parque de vehículos 2014" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2014" CountryName="" DocLinksAsString="" Categories="Parque de vehículos 2014;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="4355711f-c85c-4492-9dfe-b6b16fd8af01" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="VEH2014" DisplayName="Parque de vehículos 2014" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2014" CountryName="" DocLinksAsString="" Categories="Parque de vehículos 2014;Vehículos y conductores;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -82,7 +82,7 @@
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
           </OutputFormat>
-          <variable GUID="894e6319-5b41-4bb9-a649-42e32f6d0c2e" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="VEH2014_001_VEH_V1" label="Total de vehículos matriculados" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="Urban/Rural Population" AggregationStr="Add" BubbleSizeHint="1" />
+          <variable GUID="894e6319-5b41-4bb9-a649-42e32f6d0c2e" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="VEH2014_001_VEH_V1" label="Total de vehículos en circulación" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="Urban/Rural Population" AggregationStr="Add" BubbleSizeHint="1" />
           <variable GUID="f7374ede-5d57-4d1d-8b0c-a63e44f892ae" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="VEH2014_001_VEH_V2" label="Turismos" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="Urban/Rural Population" AggregationStr="Add" BubbleSizeHint="1" />
           <variable GUID="bf142578-8a67-4d24-891e-5535bebbb374" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="VEH2014_001_VEH_V3" label="Motocicletas" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="Urban/Rural Population" AggregationStr="Add" BubbleSizeHint="1" />
           <variable GUID="a8e28827-59a7-4d8b-b3c3-e2e95c71a244" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="VEH2014_001_VEH_V4" label="Ciclomotores" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="Urban/Rural Population" AggregationStr="Add" BubbleSizeHint="1" />
@@ -104,5 +104,6 @@
   </SurveyDatasets>
   <Categories>
     <string>Parque de vehículos 2014</string>
+    <string>Vehículos y conductores</string>
   </Categories>
 </survey>
