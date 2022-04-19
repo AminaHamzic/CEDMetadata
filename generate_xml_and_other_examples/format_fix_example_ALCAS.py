@@ -185,7 +185,7 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'ALCAS1983.xml','ALCAS1987.xml','ALCAS1991.xml','ALCAS1995.xml','ALCAS1999.xml','ALCAS2003.xml'}
+    projects = {'ALCAS1979.xml','ALCAS1983.xml','ALCAS1987.xml','ALCAS1991.xml','ALCAS1995.xml','ALCAS1999.xml','ALCAS2003.xml','ALCAS2007.xml','ALCAS2011.xml','ALCAS2015.xml'}
 
     project_template = 'ALCAS2019.xml'
 

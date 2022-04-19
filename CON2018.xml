@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="a44b9149-420a-42eb-8a07-ca6835d8f522" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CON2018" DisplayName="Censo de conductores 2018" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2018" CountryName="" DocLinksAsString="" Categories="Censo de conductores 2018;Vehículos y conductores;">
+  <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
+  <Description><![CDATA[]]></Description>
+  <Notes><![CDATA[]]></Notes>
+  <PrivateNotes><![CDATA[]]></PrivateNotes>
+  <Documentation Label="Documentation">
+    <DocumentLinks />
+  </Documentation>
+  <geoTypes>
+    <geoType MapDisplayScale="" GUID="ddb41114-becd-4b1e-b51f-3a7d2076f666" SearchPriorityCode="" Name="SL010" Label="TOTAL" QLabel="TOTAL" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="TOTAL" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="0" Sumlev="010" FipsCodeLength="2" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="TOTAL" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
+      <Visible>true</Visible>
+    </geoType>
+    <geoType MapDisplayScale="" GUID="d47f75ff-20fb-4dcc-a0f4-56f96850973c" SearchPriorityCode="" Name="SL030" Label="CCAA" QLabel="CCAA" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="CCAA" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="1" Sumlev="030" FipsCodeLength="4" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="CCAA" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
+      <Visible>true</Visible>
+    </geoType>
+    <geoType MapDisplayScale="" GUID="b30e774f-6c23-40a8-acea-e88f93ebb9be" SearchPriorityCode="" Name="SL040" Label="PROVINCIA" QLabel="PROVINCIA" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="PROVINCIA" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="2" Sumlev="040" FipsCodeLength="6" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="PROVINCIA" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
+      <Visible>true</Visible>
+    </geoType>
+    <geoType MapDisplayScale="" GUID="c1b3cc23-c53c-401b-9f9e-48e02b9f6783" SearchPriorityCode="" Name="SL050" Label="MUNICIPIO" QLabel="MUNICIPIO" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="MUNICIPIO" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="3" Sumlev="050" FipsCodeLength="11" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="MUNICIPIO" FipsCodePartialLength="5" Notes="" DocSectionLinks="">
+      <Visible>true</Visible>
+    </geoType>
+  </geoTypes>
+  <GeoSurveyDataset GUID="cfb08d0d-be31-4149-8c46-cd6cba7c25f3" DocLinksAsString="" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" description="" ProductTags="" Visible="false" abbreviation="Geo" source="" publisher="" name="Geography Summary File" DisplayName="Geography Summary File">
+    <DataBibliographicInfo />
+    <notes />
+    <PrivateNotes><![CDATA[]]></PrivateNotes>
+    <Description><![CDATA[]]></Description>
+    <datasets>
+      <dataset GUID="0922de83-6249-4f58-a18c-ac08f01226bb" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL010_001" IsCached="false" DbTableNamePrefix="CON2018_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      <dataset GUID="55252790-0dde-46ed-97b8-999942b527ba" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL030_001" IsCached="false" DbTableNamePrefix="CON2018_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      <dataset GUID="40a21651-d244-4994-aca7-807c341e0b24" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL040_001" IsCached="false" DbTableNamePrefix="CON2018_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      <dataset GUID="f94561fa-afcf-4995-bf2b-14ee9a0015a9" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL050_001" IsCached="false" DbTableNamePrefix="CON2018_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+    </datasets>
+    <iterations />
+    <tables>
+      <table GUID="42169c06-fe7b-414f-a1d0-f6a81ee9e09a" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="G001" displayName="G1." title="Geography Identifiers" titleWrapped="Geography Identifiers" titleShort="" universe="none" Visible="false" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="G001" source="" DefaultColumnCaption="" samplingInfo="">
+        <mVisibleInMaps>true</mVisibleInMaps>
+        <OutputFormat TableTitle="" TableUniverse="">
+          <Columns />
+        </OutputFormat>
+        <variable GUID="7f662edb-ad7c-4996-b183-6f6105c0f0eb" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="QNAME" label="Qualifying Name" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" />
+        <variable GUID="95923f68-5963-4450-a348-10ff3336e327" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="NAME" label="Name of Area" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" />
+        <variable GUID="89250fa7-7c36-466c-b1ce-56d2959dc662" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="FIPS" label="FIPS" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" />
+        <variable GUID="4c90e01a-40ed-4370-a486-4d89da5a6fbe" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="TOTAL" label="TOTAL" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" />
+        <variable GUID="38759f51-f876-4039-b225-b28d51479a1d" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CCAA" label="CCAA" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" />
+        <variable GUID="60e9fc0e-d9c9-4002-a8c9-9a3ae0c2980a" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PROVINCIA" label="PROVINCIA" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" />
+        <variable GUID="bcb63fb7-bee4-4b7a-9b89-2514391add6d" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="MUNICIPIO" label="MUNICIPIO" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" />
+      </table>
+    </tables>
+  </GeoSurveyDataset>
+  <SurveyDatasets>
+    <SurveyDataset GUID="254205a3-d95f-4010-b927-da15c64e52dc" DocLinksAsString="" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" description="" ProductTags="" Visible="false" abbreviation="SE" source="" publisher="" name="CED Tables" DisplayName="CED Tables">
+      <DataBibliographicInfo />
+      <notes />
+      <PrivateNotes><![CDATA[]]></PrivateNotes>
+      <Description><![CDATA[]]></Description>
+      <datasets>
+        <dataset GUID="38d34a4c-2b2a-46ea-8dbf-b0055da3d9b8" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL010_001" IsCached="false" DbTableNamePrefix="CON2018_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="5c2bfc10-8e82-4977-8d07-355932f93572" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL030_001" IsCached="false" DbTableNamePrefix="CON2018_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="6c5bf3d5-5bfd-4aed-a572-335c44f80e57" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL040_001" IsCached="false" DbTableNamePrefix="CON2018_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="efad64bf-1ad1-4553-9be6-e972210b2bba" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL050_001" IsCached="false" DbTableNamePrefix="CON2018_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      </datasets>
+      <iterations />
+      <tables />
+    </SurveyDataset>
+    <SurveyDataset GUID="b0d40af1-279d-4e39-8a0a-73b8fe6fa50f" DocLinksAsString="" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" description="" ProductTags="" Visible="true" abbreviation="ORG" source="" publisher="" name="Original Tables" DisplayName="Original Tables">
+      <DataBibliographicInfo />
+      <notes />
+      <PrivateNotes><![CDATA[]]></PrivateNotes>
+      <Description><![CDATA[]]></Description>
+      <datasets>
+        <dataset GUID="fd13a0e9-0811-466c-895b-03bad90b907e" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL010_001" IsCached="false" DbTableNamePrefix="CON2018_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="3659c7bf-ea0e-4b7b-9ca5-4f64884a0d6c" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL030_001" IsCached="false" DbTableNamePrefix="CON2018_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="d408b527-7749-440f-8091-706303c9449f" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL040_001" IsCached="false" DbTableNamePrefix="CON2018_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="aa87bd16-e138-4a4d-a983-17813757e626" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="CON2018" GeoIdDbTableName="CON2018_SL050_001" IsCached="false" DbTableNamePrefix="CON2018_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      </datasets>
+      <iterations />
+      <tables>
+        <table GUID="c0b30a42-4042-4dc1-8be0-e37431e2e1cc" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="CON2018_001" displayName="CON2018_001" title="Población con permiso de conducir" titleWrapped="Población con permiso de conducir" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Vehículos y conductores;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="CON2018_001" source="CON2017_001" DefaultColumnCaption="CON2011_001" samplingInfo="">
+          <mVisibleInMaps>true</mVisibleInMaps>
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns />
+          </OutputFormat>
+          <variable GUID="50956253-98d3-48f8-af8e-9c03d2d564b0" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CON2018_001_CON_V1" label="Total conductores" qLabel="Total conductores" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" />
+          <variable GUID="771a4787-d86a-49e8-b9e0-ef897d3dfd9d" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CON2018_001_CON_V2" label="Hombres" qLabel="Hombres" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="Sex_Spain2" AggregationStr="Add" BubbleSizeHint="1" />
+          <variable GUID="38b319a7-7a98-42ef-9ce3-f308549f392c" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CON2018_001_CON_V3" label="Mujeres" qLabel="Mujeres" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="Sex_Spain2" AggregationStr="Add" BubbleSizeHint="1" />
+        </table>
+        <table GUID="b2017609-9779-416d-8ec1-e4bcfad480e4" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="CON2018_002" displayName="CON2018_002" title="Permisos de conducir por 1000 habitantes" titleWrapped="Permisos de conducir por 1000 habitantes" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Vehículos y conductores;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="CON2018_002" source="CON2017_002" DefaultColumnCaption="CON2011_002" samplingInfo="">
+          <mVisibleInMaps>true</mVisibleInMaps>
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns />
+          </OutputFormat>
+          <variable GUID="56c8cf01-ae5e-4f36-8bc6-bbdc0199286b" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CON2018_002_CON_V4" label="Tasa por 1000 hab. Total" qLabel="Tasa por 1000 hab. Total" indent="0" dataType="7" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="TASA1000" AggregationStr="Rate|||100000" BubbleSizeHint="1" />
+          <variable GUID="9f8c3d02-7404-45dc-a5f3-e9954bcf7c09" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CON2018_002_CON_V5" label="Tasa por 1000 hab. Hombres" qLabel="Tasa por 1000 hab. Hombres" indent="0" dataType="7" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="TASA1000" AggregationStr="Rate|||100000" BubbleSizeHint="1" />
+          <variable GUID="0cd97d76-90a4-4b38-a437-e57c0a420f40" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CON2018_002_CON_V6" label="Tasa por 1000 hab. Mujeres" qLabel="Tasa por 1000 hab. Mujeres" indent="0" dataType="7" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="TASA1000" AggregationStr="Rate|||100000" BubbleSizeHint="1" />
+        </table>
+      </tables>
+    </SurveyDataset>
+  </SurveyDatasets>
+  <Categories>
+    <string>Censo de conductores 2018</string>
+    <string>Vehículos y conductores</string>
+  </Categories>
+</survey>

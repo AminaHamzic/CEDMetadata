@@ -185,7 +185,7 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'VFG2010.xml','VFG2011.xml','VFG2012.xml','VFG2013.xml','VFG2014.xml','VFG2015.xml','VFG2016.xml','VFG2017.xml','VFG2018.xml'}
+    projects = {'VFG2010.xml','VFG2011.xml','VFG2012.xml','VFG2013.xml','VFG2014.xml','VFG2015.xml','VFG2016.xml','VFG2017.xml','VFG2018.xml','VFG2020.xml'}
 
     project_template = 'VFG2019.xml'
 

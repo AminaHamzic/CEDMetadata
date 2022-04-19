@@ -1,0 +1,153 @@
+<survey GUID="457da0ca-3c5d-4f17-a714-a62eff6d94d8" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CRIM2020" DisplayName="Estadistica de crimen 2020" year="2020" Categories="">
+  <Description><![CDATA[]]></Description>
+  <notes><![CDATA[]]></notes>
+  <PrivateNotes><![CDATA[]]></PrivateNotes>
+  <documentation Label="Documentation">
+    <documentlinks/>
+  </documentation>
+  <geoTypes>
+    <geoType GUID="acb3d5d1-badb-4e5e-88f8-3ea9c35f260b" Name="SL010" Label="TOTAL" QLabel="TOTAL" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA" PluralName="TOTAL" fullCoverage="true" majorGeo="true" Indent="0" Sumlev="010" FipsCodeLength="2" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="TOTAL" FipsCodePartialLength="2">
+      <Visible>true</Visible>
+    </geoType>
+    <geoType GUID="2c5fe116-21d4-4af1-ac86-1f566df531c1" Name="SL030" Label="CCAA" QLabel="CCAA" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA" PluralName="CCAA" fullCoverage="true" majorGeo="true" Indent="1" Sumlev="030" FipsCodeLength="4" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="CCAA" FipsCodePartialLength="2">
+      <Visible>true</Visible>
+    </geoType>
+    <geoType GUID="fd4215b8-72c9-4e04-b113-ec81e76df914" Name="SL040" Label="PROVINCIA" QLabel="PROVINCIA" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA" PluralName="PROVINCIA" fullCoverage="true" majorGeo="true" Indent="2" Sumlev="040" FipsCodeLength="6" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="PROVINCIA" FipsCodePartialLength="2">
+      <Visible>true</Visible>
+    </geoType>
+  </geoTypes>
+  <GeoSurveyDataset GUID="c4b8cb70-1a49-44ac-ad1e-19bc00a157b8" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" Description="Geographic Summary Count" Visible="false" abbreviation="Geo" name="Geography Summary File" DisplayName="Geography Summary File">
+    <DataBibliographicInfo/>
+    <notes/>
+    <PrivateNotes><![CDATA[]]></PrivateNotes>
+    <Description><![CDATA[]]></Description>
+    <datasets>
+      <dataset GUID="ef0cd66e-6b78-43ee-88a0-e7696bf9b0af" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="CRIM2020" GeoIdDbTableName="CRIM2020_SL010_001" IsCached="false" DbTableNamePrefix="CRIM2020_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1"/>
+      <dataset GUID="08378b7c-12fe-4eda-8712-257d5b46fc65" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="CRIM2020" GeoIdDbTableName="CRIM2020_SL030_001" IsCached="false" DbTableNamePrefix="CRIM2020_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1"/>
+      <dataset GUID="4b84de8c-b446-4f31-87e1-4b3e46975da5" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="CRIM2020" GeoIdDbTableName="CRIM2020_SL040_001" IsCached="false" DbTableNamePrefix="CRIM2020_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1"/>
+    </datasets>
+    <iterations/>
+    <tables>
+      <table GUID="54b45058-ddf3-435b-8a1c-8b8482f62fdf" VariablesAreExclusive="false" notes="" PrivateNotes="" DollarYear="0" PercentBaseMin="1" name="G001" displayName="G1." title="Geography Identifiers" titleWrapped="Geography Identifiers" titleShort="" universe="none" Visible="false" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="G001" source="" DefaultColumnCaption="" samplingInfo="">
+        <OutputFormat TableTitle="" TableUniverse="">
+          <Columns/>
+        </OutputFormat>
+        <variable GUID="73779a2a-96e4-469a-a2bf-81843ad76363" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="QNAME" label="Qualifying Name" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
+        <variable GUID="511207a0-2501-46f7-9bcb-c092621b27a1" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="NAME" label="Name of Area" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
+        <variable GUID="915c3f3c-d7bf-4223-af68-efcbabcba0c0" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="FIPS" label="FIPS" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
+        <variable GUID="a8927a61-cc5d-4ebe-8143-a033cb3d8477" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="TOTAL" label="TOTAL" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
+        <variable GUID="60afd0be-fb55-48eb-814a-33758929e3ed" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CCAA" label="CCAA" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
+        <variable GUID="9ab5db41-9ab6-4309-b25e-e518c5ccfb0a" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PROVINCIA" label="PROVINCIA" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
+      </table>
+    </tables>
+  </GeoSurveyDataset>
+  <SurveyDatasets>
+    <SurveyDataset GUID="7e6c52da-0e12-43c7-ac69-799b6321309d" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" Description="" Visible="false" abbreviation="SE" name="CED Tables" DisplayName="CED Tables">
+      <DataBibliographicInfo/>
+      <notes/>
+      <PrivateNotes><![CDATA[]]></PrivateNotes>
+      <Description><![CDATA[]]></Description>
+      <datasets>
+        <dataset GUID="0aeea9af-350c-4f0f-9742-47bf56173f12" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="CRIM2020" GeoIdDbTableName="CRIM2020_SL010_001" IsCached="false" DbTableNamePrefix="CRIM2020_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1"/>
+        <dataset GUID="00b5a338-6e9c-4762-bedb-3a8c34062aae" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="CRIM2020" GeoIdDbTableName="CRIM2020_SL030_001" IsCached="false" DbTableNamePrefix="CRIM2020_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1"/>
+        <dataset GUID="8213cb62-a80e-4508-8467-539ce447615e" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="CRIM2020" GeoIdDbTableName="CRIM2020_SL040_001" IsCached="false" DbTableNamePrefix="CRIM2020_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1"/>
+      </datasets>
+      <iterations/>
+      <tables>
+        <!--Insert SE tables here !!!-->
+      </tables>
+    </SurveyDataset>
+    <SurveyDataset GUID="a2492bb3-d54d-495d-955f-4d02032cdefd" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" Description="" Visible="true" abbreviation="ORG" name="Original Tables" DisplayName="Original Tables">
+      <DataBibliographicInfo/>
+      <notes/>
+      <PrivateNotes><![CDATA[]]></PrivateNotes>
+      <Description><![CDATA[]]></Description>
+      <datasets>
+        <dataset GUID="d3ae60c9-9216-458f-b4a0-c8896799fcd6" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="CRIM2020" GeoIdDbTableName="CRIM2020_SL010_001" IsCached="false" DbTableNamePrefix="CRIM2020_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1"/>
+        <dataset GUID="516d2df7-d889-4cb6-9d20-9bbb4d99535c" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="CRIM2020" GeoIdDbTableName="CRIM2020_SL030_001" IsCached="false" DbTableNamePrefix="CRIM2020_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1"/>
+        <dataset GUID="bb794922-5b28-43a2-aa40-c3b8a23bcaf2" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="CRIM2020" GeoIdDbTableName="CRIM2020_SL040_001" IsCached="false" DbTableNamePrefix="CRIM2020_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1"/>
+      </datasets>
+      <iterations/>
+      <tables>
+        <table GUID="71b96110-706d-4c21-ae0c-166fd984773d" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="CRIM2020_001" displayName="CRIM2020_001" title="Indicador de criminalidad" titleWrapped="Indicador de criminalidad" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="CRIM2020_001" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Crimen;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="CRIM2019_001" DefaultColumnCaption="" samplingInfo="">
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns/>
+          </OutputFormat>
+          <variable GUID="7d881067-8183-4205-a0dc-526e556e5d3b" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_001_CRIM_V1" label="Infracciones penales" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="cd2b5e80-c78a-4820-84b6-7fa506da1d1a" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_001_CRIM_V2" label="Tasa de Criminalidad por 1.000 habitantes" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="TASA20_60" PN="" PT=""/>
+        </table>
+      </tables>
+      <tables>
+        <table GUID="68e35b48-52b2-4370-b667-94dd418c59b0" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="CRIM2020_002" displayName="CRIM2020_002" title="Homicidios y asesinatos" titleWrapped="Homicidios y asesinatos" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="CRIM2020_002" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Crimen;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="CRIM2019_002" DefaultColumnCaption="" samplingInfo="">
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns/>
+          </OutputFormat>
+          <variable GUID="6632fa73-e0c9-426a-9122-bb64f8de3121" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_002_CRIM_V3" label="Total homicidios y asesinatos" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="01a7472a-e606-40cd-9ac8-766bc293760f" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_002_CRIM_V4" label="Consumados" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="f3042b49-873d-4b11-b404-68ae094d2bd0" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_002_CRIM_V5" label="En grado de tentativa" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="" PN="" PT=""/>
+        </table>
+      </tables>
+      <tables>
+        <table GUID="ab4fcdad-1f64-44f1-af56-34b9d0c14677" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="CRIM2020_003" displayName="CRIM2020_003" title="Lesiones" titleWrapped="Lesiones" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="CRIM2020_003" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Crimen;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="CRIM2019_003" DefaultColumnCaption="" samplingInfo="">
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns/>
+          </OutputFormat>
+          <variable GUID="fc0d06b4-785e-4717-809d-71e0c3e9e5b9" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_003_CRIM_V6" label="Total lesiones" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="36325332-7bf6-415c-9ec7-f8c1b23c74e3" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_003_CRIM_V7" label="Lesiones por 100 mil habitantes" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="TASA50_300" PN="" PT=""/>
+        </table>
+      </tables>
+      <tables>
+        <table GUID="f31a3172-adf3-46fa-adc5-12a88a93bd49" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="CRIM2020_004" displayName="CRIM2020_004" title="Delitos contra la libertad sexual" titleWrapped="Delitos contra la libertad sexual" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="004" uniqueTableId="CRIM2020_004" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Crimen;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="CRIM2019_004" DefaultColumnCaption="" samplingInfo="">
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns/>
+          </OutputFormat>
+          <variable GUID="26d6bff2-e7b2-46ca-92ee-1adca805d912" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_004_CRIM_V8" label="Total contra la libertad sexual" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="76111a2e-ee14-451d-8f53-5d4ecc15d796" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_004_CRIM_V9" label="Contra la libertad sexual por 100 mil habitantes" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="TASA20_60" PN="" PT=""/>
+        </table>
+      </tables>
+      <tables>
+        <table GUID="1682dc9f-0c95-4f1b-8241-18e508b13e95" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="CRIM2020_005" displayName="CRIM2020_005" title="Robos" titleWrapped="Robos" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="005" uniqueTableId="CRIM2020_005" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Crimen;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="CRIM2019_005" DefaultColumnCaption="" samplingInfo="">
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns/>
+          </OutputFormat>
+          <variable GUID="2e6cd466-5caa-4d59-ba7b-43253a12c745" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_005_CRIM_V10" label="Total robos" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="b547b011-7f5e-4891-981c-b840b4a88fca" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_005_CRIM_V11" label="Con fuerza" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="052797a4-57e4-45bb-b4f1-f9ccacda2570" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_005_CRIM_V12" label="Con violencia o intimidaci&#243;n" qLabel="" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="bf4503a9-b993-4283-988a-68e97c5dc4ca" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_005_CRIM_V13" label="Robos por 100 mil habitantes" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="TASA400_2000" PN="" PT=""/>
+          <variable GUID="66bcef62-c2ba-411e-87bb-1e31c47b740b" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_005_CRIM_V14" label="Con fuerza por 100 mil habitantes" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="TASA400_2000" PN="" PT=""/>
+          <variable GUID="2b120aa0-3aea-443b-83bb-e7d16e7bb8a8" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_005_CRIM_V15" label="Con violencia o intimidaci&#243;n por 100 mil habitantes" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="TASA50_300" PN="" PT=""/>
+        </table>
+      </tables>
+      <tables>
+        <table GUID="e3f4397a-6801-486b-ac0f-8874053cbfab" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="CRIM2020_006" displayName="CRIM2020_006" title="Hurtos" titleWrapped="Hurtos" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="006" uniqueTableId="CRIM2020_006" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Crimen;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="CRIM2019_006" DefaultColumnCaption="" samplingInfo="">
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns/>
+          </OutputFormat>
+          <variable GUID="6ef29194-c05b-4c63-b578-4874366b79c4" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_006_CRIM_V16" label="Total hurtos" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="9f4db0f7-5b23-4bbc-902e-3cd77a85ae95" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_006_CRIM_V17" label="Hurtos por 100 mil habitantes" qLabel="" indent="0" dataType="8" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="TASA400_2000" PN="" PT=""/>
+        </table>
+      </tables>
+      <tables>
+        <table GUID="c528374b-1c9e-4644-9248-85b0641e424d" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="CRIM2020_007" displayName="CRIM2020_007" title="Sustracci&#243;n de veh&#237;culos" titleWrapped="Sustracci&#243;n de veh&#237;culos" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="007" uniqueTableId="CRIM2020_007" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Crimen;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="CRIM2019_007" DefaultColumnCaption="" samplingInfo="">
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns/>
+          </OutputFormat>
+          <variable GUID="fe9736a5-1a0f-411b-b4e2-da7a517b0c23" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_007_CRIM_V18" label="Total sustracci&#243;n de veh&#237;culos" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="7f63fd3d-6b17-40a2-ba97-c1f6250575da" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_007_CRIM_V19" label="Sustracci&#243;n de veh&#237;culos por 100 mil habitantes" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="TASA20_60" PN="" PT=""/>
+        </table>
+      </tables>
+      <tables>
+        <table GUID="c76e6a33-153b-4ecf-8f00-9bce2e360c8f" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="CRIM2020_008" displayName="CRIM2020_008" title="Tr&#225;fico de drogas" titleWrapped="Tr&#225;fico de drogas" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="008" uniqueTableId="CRIM2020_008" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Crimen;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="CRIM2019_008" DefaultColumnCaption="" samplingInfo="">
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns/>
+          </OutputFormat>
+          <variable GUID="06e33b1f-f2f9-411d-b48e-c7297b51e223" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_008_CRIM_V20" label="Total tr&#225;fico de drogas" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="f836c51a-5cb5-420c-b417-9a7a8c7b2a34" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CRIM2020_008_CRIM_V21" label="Tr&#225;fico de drogas por 100 mil habitantes" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="TASA20_60" PN="" PT=""/>
+        </table>
+      </tables>
+    </SurveyDataset>
+  </SurveyDatasets>
+  <Categories>
+    <string>Estadistica de crimen 2020</string>
+  </Categories>
+</survey>
