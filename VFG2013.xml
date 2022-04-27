@@ -69,7 +69,7 @@
       </datasets>
       <iterations/>
       <tables>
-        <table GUID="99718120-9834-49f7-94cf-12fbed2122b4" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_001" displayName="VFG2013_001" title="Malos tratos en el &#225;mbito familiar" titleWrapped="Malos tratos en el &#225;mbito familiar" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="VFG2013_001" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_001" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="99718120-9834-49f7-94cf-12fbed2122b4" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_001" displayName="VFG2013_001" title="Malos tratos en el &#225;mbito familiar" titleWrapped="Malos tratos en el &#225;mbito familiar" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="VFG2013_001" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="G&#233;nero;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_001" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -80,7 +80,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="b27b8d4f-9601-4287-bbf2-b33556285afe" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_002" displayName="VFG2013_002" title="Mujeres muertas por violencia de g&#233;nero" titleWrapped="Mujeres muertas por violencia de g&#233;nero" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="VFG2013_002" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_002" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="b27b8d4f-9601-4287-bbf2-b33556285afe" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_002" displayName="VFG2013_002" title="Mujeres muertas por violencia de g&#233;nero" titleWrapped="Mujeres muertas por violencia de g&#233;nero" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="VFG2013_002" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="G&#233;nero;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_002" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -88,7 +88,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="58d3c193-6772-4d69-bed0-4db854ad79dd" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_003" displayName="VFG2013_003" title="Llamadas de violencia de g&#233;nero al 016 seg&#250;n la persona que realiza la llamada" titleWrapped="Llamadas de violencia de g&#233;nero al 016 seg&#250;n la persona que realiza la llamada" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="VFG2013_003" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_003" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="58d3c193-6772-4d69-bed0-4db854ad79dd" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_003" displayName="VFG2013_003" title="Llamadas de violencia de g&#233;nero al 016 seg&#250;n la persona que realiza la llamada" titleWrapped="Llamadas de violencia de g&#233;nero al 016 seg&#250;n la persona que realiza la llamada" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="VFG2013_003" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="G&#233;nero;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_003" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -100,7 +100,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="c5311291-9f4c-4394-a9b0-15dc1935bb52" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_004" displayName="VFG2013_004" title="Denuncias de violencia de g&#233;nero" titleWrapped="Denuncias de violencia de g&#233;nero" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="004" uniqueTableId="VFG2013_004" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_004" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="c5311291-9f4c-4394-a9b0-15dc1935bb52" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_004" displayName="VFG2013_004" title="Denuncias de violencia de g&#233;nero" titleWrapped="Denuncias de violencia de g&#233;nero" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="004" uniqueTableId="VFG2013_004" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="G&#233;nero;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_004" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -109,7 +109,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="d7b58a6f-36d0-434a-a4f6-5db0d03d479d" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_005" displayName="VFG2013_005" title="Dispositivos electr&#243;nicos de seguimiento activos a 31 de diciembre" titleWrapped="Dispositivos electr&#243;nicos de seguimiento activos a 31 de diciembre" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="005" uniqueTableId="VFG2013_005" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_005" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="d7b58a6f-36d0-434a-a4f6-5db0d03d479d" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_005" displayName="VFG2013_005" title="Dispositivos electr&#243;nicos de seguimiento activos a 31 de diciembre" titleWrapped="Dispositivos electr&#243;nicos de seguimiento activos a 31 de diciembre" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="005" uniqueTableId="VFG2013_005" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="G&#233;nero;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_005" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -118,7 +118,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="a7c9bf9c-6477-4583-8062-f97849732568" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_006" displayName="VFG2013_006" title="&#211;rdenes de protecci&#243;n" titleWrapped="&#211;rdenes de protecci&#243;n" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="006" uniqueTableId="VFG2013_006" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_006" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="a7c9bf9c-6477-4583-8062-f97849732568" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_006" displayName="VFG2013_006" title="&#211;rdenes de protecci&#243;n" titleWrapped="&#211;rdenes de protecci&#243;n" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="006" uniqueTableId="VFG2013_006" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="G&#233;nero;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_006" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -127,7 +127,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="9ca770dc-1b55-4601-83ad-01311654949d" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_007" displayName="VFG2013_007" title="Renta activa de insercci&#243;n" titleWrapped="Renta activa de insercci&#243;n" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="007" uniqueTableId="VFG2013_007" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_007" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="9ca770dc-1b55-4601-83ad-01311654949d" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="VFG2013_007" displayName="VFG2013_007" title="Renta activa de insercci&#243;n" titleWrapped="Renta activa de insercci&#243;n" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="007" uniqueTableId="VFG2013_007" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="G&#233;nero;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="VFG2019_007" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
