@@ -1,0 +1,13 @@
+RENTA_V1,"Renta neta media por persona",0
+RENTA_V2,"Renta neta media por hogar",0
+RENTA_V3,"Media de la renta por unidad de consumo",0
+RENTA_V4,"Mediana de la renta por unidad de consumo",0
+RENTA_V5,"Renta bruta media por persona",0
+RENTA_V6,"Renta bruta media por hogar",0
+RENTA_V7,"Fuentes de ingreso: salario",0
+RENTA_V8,"Fuentes de ingreso: pensiones",0
+RENTA_V9,"Fuentes de ingreso: prestaciones por desempleo",0
+RENTA_V10,"Fuentes de ingreso: otras prestaciones",0
+RENTA_V11,"Fuentes de ingreso: otros ingresos",0
+RENTA_V12,"Indice de Gini",0
+RENTA_V13,"Distribución de la renta P80/P20",0
