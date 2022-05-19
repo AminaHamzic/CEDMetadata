@@ -9,13 +9,13 @@
   </Documentation>
   <geoTypes>
     <geoType MapDisplayScale="" GUID="befa6237-e2a5-49d6-b117-aeed3727a3d3" SearchPriorityCode="" Name="SL010" Label="TOTAL" QLabel="TOTAL" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="TOTAL" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="0" Sumlev="010" FipsCodeLength="2" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="TOTAL" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
-      <Visible>true</Visible>
+      <Visible>false</Visible>
     </geoType>
     <geoType MapDisplayScale="" GUID="15770f7a-cb77-451f-bf9f-8163cf330d72" SearchPriorityCode="" Name="SL030" Label="CCAA" QLabel="CCAA" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="CCAA" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="1" Sumlev="030" FipsCodeLength="4" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="CCAA" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
-      <Visible>true</Visible>
+      <Visible>false</Visible>
     </geoType>
     <geoType MapDisplayScale="" GUID="83e7da31-b6c2-4e59-a2ba-7859588d9fff" SearchPriorityCode="" Name="SL040" Label="PROVINCIA" QLabel="PROVINCIA" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="PROVINCIA" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="2" Sumlev="040" FipsCodeLength="6" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="PROVINCIA" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
-      <Visible>true</Visible>
+      <Visible>false</Visible>
     </geoType>
     <geoType MapDisplayScale="" GUID="6bddff76-97d7-4d57-b57b-b98813c027cb" SearchPriorityCode="" Name="SL050" Label="MUNICIPIO" QLabel="MUNICIPIO" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="MUNICIPIO" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="3" Sumlev="050" FipsCodeLength="11" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="MUNICIPIO" FipsCodePartialLength="5" Notes="" DocSectionLinks="">
       <Visible>true</Visible>
