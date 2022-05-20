@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="e0319aae-4cc2-4f80-a0ae-0378e3b02087" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="VFG2019" DisplayName="Violencia familiar y de genero 2019" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2019" CountryName="" DocLinksAsString="" Categories="Violencia familiar y de genero 2019;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="e0319aae-4cc2-4f80-a0ae-0378e3b02087" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="VFG2019" DisplayName="Violencia familiar y de genero 2019" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2019" CountryName="" DocLinksAsString="" Categories="Violencia familiar y de genero 2019;Género;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -85,7 +85,7 @@
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
           </OutputFormat>
-          <variable GUID="aa5e76e2-f66f-4a39-a05f-60ea1458728c" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="VFG2019_002_VFG_V5" label="Mujeres asesinadas" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" />
+          <variable GUID="aa5e76e2-f66f-4a39-a05f-60ea1458728c" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="VFG2019_002_VFG_V5" label="Mujeres asesinadas" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="0" />
         </table>
         <table GUID="ca897c6a-d200-4ff0-8600-42c80c29bb47" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="VFG2019_003" displayName="VFG2019_003" title="Llamadas de violencia de género al 016 según la persona que realiza la llamada" titleWrapped="Llamadas de violencia de género al 016 según la persona que realiza la llamada" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Género;" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="VFG2019_003" source="" DefaultColumnCaption="" samplingInfo="">
           <mVisibleInMaps>true</mVisibleInMaps>
@@ -135,5 +135,6 @@
   </SurveyDatasets>
   <Categories>
     <string>Violencia familiar y de genero 2019</string>
+    <string>Género</string>
   </Categories>
 </survey>
