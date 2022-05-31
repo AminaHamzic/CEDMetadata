@@ -84,7 +84,7 @@
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
-          <variable GUID="1c94a581-2e16-481f-850b-ba1951a1f6ca" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="VFG2017_002_VFG_V5" label="Mujeres asesinadas" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="1" FR="" PN="" PT=""/>
+          <variable GUID="1c94a581-2e16-481f-850b-ba1951a1f6ca" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="VFG2017_002_VFG_V5" label="Mujeres asesinadas" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="0" FR="" PN="" PT=""/>
         </table>
       </tables>
       <tables>
