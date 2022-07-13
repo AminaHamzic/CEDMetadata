@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="61640bee-358b-488e-9064-8b21863b46a0" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="AEMET2010" DisplayName="aemet 2010" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2010" CountryName="" DocLinksAsString="" Categories="aemet 2010;Clima;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="61640bee-358b-488e-9064-8b21863b46a0" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="AEMET2010" DisplayName="AEMET 2010" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2010" CountryName="" DocLinksAsString="" Categories="aemet 2010;Clima;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
