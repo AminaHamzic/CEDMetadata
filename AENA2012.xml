@@ -7,13 +7,13 @@
   </documentation>
   <geoTypes>
     <geoType GUID="7c5a502f-ea53-43ca-b4c0-cc42e7a8acdb" Name="SL010" Label="TOTAL" QLabel="TOTAL" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,AEROPUERTO" PluralName="TOTAL" fullCoverage="true" majorGeo="true" Indent="0" Sumlev="010" FipsCodeLength="2" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="TOTAL" FipsCodePartialLength="2">
-      <Visible>true</Visible>
+      <Visible>false</Visible>
     </geoType>
     <geoType GUID="973a7e78-c6ea-4726-bdd2-48fb97019534" Name="SL030" Label="CCAA" QLabel="CCAA" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,AEROPUERTO" PluralName="CCAA" fullCoverage="true" majorGeo="true" Indent="1" Sumlev="030" FipsCodeLength="4" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="CCAA" FipsCodePartialLength="2">
-      <Visible>true</Visible>
+      <Visible>false</Visible>
     </geoType>
     <geoType GUID="040439ff-4092-4343-849e-456467fdc3db" Name="SL040" Label="PROVINCIA" QLabel="PROVINCIA" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,AEROPUERTO" PluralName="PROVINCIA" fullCoverage="true" majorGeo="true" Indent="2" Sumlev="040" FipsCodeLength="6" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="PROVINCIA" FipsCodePartialLength="2">
-      <Visible>true</Visible>
+      <Visible>false</Visible>
     </geoType>
     <geoType GUID="0bbf0a59-9dd4-481b-bbf5-a3443c83ca53" Name="SL050" Label="AEROPUERTO" QLabel="AEROPUERTO" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,AEROPUERTO" PluralName="AEROPUERTO" fullCoverage="true" majorGeo="true" Indent="3" Sumlev="050" FipsCodeLength="11" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="AEROPUERTO" FipsCodePartialLength="5">
       <Visible>true</Visible>
