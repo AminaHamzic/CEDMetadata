@@ -76,7 +76,7 @@
       </datasets>
       <iterations/>
       <tables>
-        <table GUID="7f005d0f-47a6-4a4f-b313-c31e632e917a" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="AENA2016_001" displayName="AENA2016_001" title="Pasajeros" titleWrapped="Pasajeros" universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="AENA2016_001" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="AENA2020_001" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="7f005d0f-47a6-4a4f-b313-c31e632e917a" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="AENA2016_001" displayName="AENA2016_001" title="Pasajeros" titleWrapped="Pasajeros" universe="none" Visible="true" TreeNodeCollapsed="true" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="AENA2016_001" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="AENA2020_001" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
