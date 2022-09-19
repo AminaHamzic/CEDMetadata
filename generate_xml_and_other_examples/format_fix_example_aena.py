@@ -185,7 +185,7 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'AENA2021.xml','AENA2019.xml','AENA2018.xml','AENA2017.xml','AENA2016.xml', 'AENA2015.xml', 'AENA2014.xml', 'AENA2013.xml', 'AENA2012.xml', 'AENA2010.xml', 'AENA2009.xml', 'AENA2008.xml', 'AENA2007.xml', 'AENA2006.xml','AENA2005.xml','AENA2004.xml'}
+    projects = {'AENA2021.xml','AENA2019.xml','AENA2018.xml','AENA2017.xml','AENA2016.xml', 'AENA2015.xml', 'AENA2014.xml', 'AENA2013.xml', 'AENA2012.xml', 'AENA2011.xml', 'AENA2010.xml', 'AENA2009.xml', 'AENA2008.xml', 'AENA2007.xml', 'AENA2006.xml','AENA2005.xml','AENA2004.xml'}
 
     project_template = 'AENA2020.xml'
 
