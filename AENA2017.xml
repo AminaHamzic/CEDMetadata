@@ -76,7 +76,7 @@
       </datasets>
       <iterations/>
       <tables>
-        <table GUID="e62ede71-347f-4f1d-acfa-dd4abfcdef05" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="AENA2017_001" displayName="AENA2017_001" title="Pasajeros" titleWrapped="Pasajeros" universe="none" Visible="true" TreeNodeCollapsed="true" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="AENA2017_001" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="AENA2020_001" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="e62ede71-347f-4f1d-acfa-dd4abfcdef05" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="AENA2017_001" displayName="AENA2017_001" title="Pasajeros" titleWrapped="Pasajeros" universe="none" Visible="true" TreeNodeCollapsed="true" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="AENA2017_001" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Infraestructuras;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="AENA2020_001" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -96,7 +96,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="d356caa0-b11d-4f38-811c-2dfc9551beba" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="AENA2017_002" displayName="AENA2017_002" title="Operaciones" titleWrapped="Operaciones" universe="none" Visible="true" TreeNodeCollapsed="true" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="AENA2017_002" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="AENA2020_002" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="d356caa0-b11d-4f38-811c-2dfc9551beba" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="AENA2017_002" displayName="AENA2017_002" title="Operaciones" titleWrapped="Operaciones" universe="none" Visible="true" TreeNodeCollapsed="true" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="AENA2017_002" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Infraestructuras;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="AENA2020_002" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
@@ -116,7 +116,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="dd79a6ca-21eb-4409-8a9f-b8b60e703a90" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="AENA2017_003" displayName="AENA2017_003" title="Mercanc&#237;as" titleWrapped="Mercanc&#237;as" universe="none" Visible="true" TreeNodeCollapsed="true" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="AENA2017_003" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="AENA2020_003" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="dd79a6ca-21eb-4409-8a9f-b8b60e703a90" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="AENA2017_003" displayName="AENA2017_003" title="Mercanc&#237;as" titleWrapped="Mercanc&#237;as" universe="none" Visible="true" TreeNodeCollapsed="true" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="AENA2017_003" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Infraestructuras;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="AENA2020_003" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
