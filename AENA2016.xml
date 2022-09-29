@@ -116,7 +116,7 @@
         </table>
       </tables>
       <tables>
-        <table GUID="7c3c70a4-6c8f-4b00-86c3-61fb47020474" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="AENA2016_003" displayName="AENA2016_003" title="Mercanc&#237;as" titleWrapped="Mercanc&#237;as" universe="none" Visible="true" TreeNodeCollapsed="true" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="AENA2016_003" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Infraestructuras;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="AENA2020_003" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="7c3c70a4-6c8f-4b00-86c3-61fb47020474" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="AENA2016_003" displayName="AENA2016_003" title="Mercanc&#237;as (Kg)" titleWrapped="Mercanc&#237;as (Kg)" universe="none" Visible="true" TreeNodeCollapsed="true" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="003" uniqueTableId="AENA2016_003" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Infraestructuras;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="AENA2020_003" DefaultColumnCaption="" samplingInfo="">
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
           </OutputFormat>
