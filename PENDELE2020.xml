@@ -92,7 +92,6 @@
             <Columns />
           </OutputFormat>
           <variable GUID="15003878-32a1-4b86-a0a2-1c4a1d7d15b3" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PENDELE2020_002_PENDELE_V4" label="Pendiente media" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="Pendiente" AggregationStr="Rate|||100000" BubbleSizeHint="1" PVT="1" PVVT="2"/>
-          <variable GUID="6849e920-24d1-47fd-b2c5-20001fe9219b" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PENDELE2020_002_PENDELE_V5" label="Pendiente máxima" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="10" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="Pendiente" AggregationStr="Rate|||100000" BubbleSizeHint="1" PVT="1" PVVT="2"/>
         </table>
       </tables>
     </SurveyDataset>
