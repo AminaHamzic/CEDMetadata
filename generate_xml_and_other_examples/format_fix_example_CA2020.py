@@ -185,7 +185,7 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'DEF2019.xml'}
+    projects = {'CA2020.xml'}
 
     project_template = 'DEF2017.xml'
 
