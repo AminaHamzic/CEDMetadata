@@ -185,9 +185,9 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'CON2020.xml'}
+    projects = {'VIV2022.xml'}
 
-    project_template = 'CON2017.xml'
+    project_template = 'VIV2019.xml'
 
     working_dir = r'C:\Users\jgarcia\Documents\CEDMetadata'
 
