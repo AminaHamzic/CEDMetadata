@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="87deeea4-ec34-4a1e-a84d-4c5e55574e61" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="SEVERAS2020" DisplayName="SEVERAS 2020" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2020" CountryName="" DocLinksAsString="" Categories="SEVERAS 2020;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="87deeea4-ec34-4a1e-a84d-4c5e55574e61" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="SEVERAS2020" DisplayName="SEVERAS 2020" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2020" CountryName="" DocLinksAsString="" Categories="SEVERAS 2020;Vulnerabilidad al cambio climático;Vulnerabilidad por despoblación;Vulnerabilidad por globalización;Capacidad adaptativa;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -129,7 +129,7 @@
           <variable GUID="e7d757ad-0fd9-47a7-90ad-dd926c0ab3f0" MTT="" MIBtext="" UVID="" PT="" PI="true" PN="cedevita" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="SEVERAS2020_004_SEVERAS_V27" label="Porcentaje de la población con cobertura de internet en el año 2019" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="11" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="SEV_v27" AggregationStr="Rate|||100000" BubbleSizeHint="1" PVT="0" PVVT="0" />
           <variable GUID="9e51e939-6239-4b12-8e14-c8c470b4da8c" MTT="" MIBtext="" UVID="" PT="" PI="true" PN="cedevita" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="SEVERAS2020_004_SEVERAS_V28" label="Porcentaje de superficie ocupada por zonas protegidas de la Red Natura 2000 en el año 2020" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="11" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="SEV_v28" AggregationStr="Rate|||100000" BubbleSizeHint="1" PVT="0" PVVT="0" />
         </table>
-        <table GUID="2e46a850-cc62-4100-be49-5edcd508e667" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="SEVERAS2020_005" displayName="SEVERAS2020_005" title="Indices" titleWrapped="Indices" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="005" uniqueTableId="SEVERAS2020_005" source="" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="2e46a850-cc62-4100-be49-5edcd508e667" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="SEVERAS2020_005" displayName="SEVERAS2020_005" title="Indices" titleWrapped="Indices" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Índices de vulnerabilidad;" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="005" uniqueTableId="SEVERAS2020_005" source="" DefaultColumnCaption="" samplingInfo="">
           <mVisibleInMaps>true</mVisibleInMaps>
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
@@ -154,5 +154,9 @@
   </SurveyDatasets>
   <Categories>
     <string>SEVERAS 2020</string>
+    <string>Vulnerabilidad al cambio climático</string>
+    <string>Vulnerabilidad por despoblación</string>
+    <string>Vulnerabilidad por globalización</string>
+    <string>Capacidad adaptativa</string>
   </Categories>
 </survey>
