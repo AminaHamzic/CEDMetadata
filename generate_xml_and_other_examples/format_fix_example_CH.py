@@ -185,9 +185,9 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'CH1930.xml', 'CH1940.xml','CH1950.xml', 'CH1960.xml','CH1975.xml','CH1970.xml'}
+    projects = {'CH1930.xml', 'CH1940.xml','CH1910.xml', 'CH1920.xml'}
 
-    project_template = 'CH1920.xml'
+    project_template = 'CH1900.xml'
 
     working_dir = r'C:\Users\jgarcia\Documents\CEDMetadata'
 
