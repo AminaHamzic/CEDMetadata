@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="b1d19f6e-055d-4a37-a7c4-71b98de9a3bd" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1900" DisplayName="Censos historicos 1900" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1900" CountryName="" DocLinksAsString="" Categories="Censos historicos 1900;Población;Hogares;Educación;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="b1d19f6e-055d-4a37-a7c4-71b98de9a3bd" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1900" DisplayName="Censos históricos 1900" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1900" CountryName="" DocLinksAsString="" Categories="Censos históricos 1900;Población;Hogares;Educación;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -156,7 +156,7 @@
     </SurveyDataset>
   </SurveyDatasets>
   <Categories>
-    <string>Censos historicos 1900</string>
+    <string>Censos históricos 1900</string>
     <string>Población</string>
     <string>Hogares</string>
     <string>Educación</string>

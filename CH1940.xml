@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="8be6c4cb-0b3e-49d1-8a58-4359cfe21c33" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1940" DisplayName="Censos historicos 1940" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1940" CountryName="" DocLinksAsString="" Categories="Censos historicos 1940;Población;Hogares;Educación;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="8be6c4cb-0b3e-49d1-8a58-4359cfe21c33" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1940" DisplayName="Censos históricos 1940" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1940" CountryName="" DocLinksAsString="" Categories="Censos historicos 1940;Población;Hogares;Educación;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
