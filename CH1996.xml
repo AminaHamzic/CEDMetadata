@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="420a5cdf-5f7c-4662-b3c2-58298b224418" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1996" DisplayName="Censos historicos 1996" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1996" CountryName="" DocLinksAsString="" Categories="Censos historicos 1996;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="420a5cdf-5f7c-4662-b3c2-58298b224418" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1996" DisplayName="Censos históricos 1996" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1996" CountryName="" DocLinksAsString="" Categories="Censos históricos 1996;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -98,6 +98,6 @@
     </SurveyDataset>
   </SurveyDatasets>
   <Categories>
-    <string>Censos historicos 1996</string>
+    <string>Censos históricos 1996</string>
   </Categories>
 </survey>
