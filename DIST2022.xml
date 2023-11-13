@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="1ddd61f9-1157-44f3-a12f-660d6ebee96b" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="DIST2022" DisplayName="Distancia a puntos de interes 2022" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2022" CountryName="" DocLinksAsString="" Categories="Distancia a puntos de interes 2022;Poblamiento;Servicios;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="1ddd61f9-1157-44f3-a12f-660d6ebee96b" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="DIST2022" DisplayName="Distancia a puntos de interés 2022" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2022" CountryName="" DocLinksAsString="" Categories="Distancia a puntos de interés 2022;Poblamiento;Servicios;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -154,7 +154,7 @@
     </SurveyDataset>
   </SurveyDatasets>
   <Categories>
-    <string>Distancia a puntos de interes 2022</string>
+    <string>Distancia a puntos de interés 2022</string>
     <string>Poblamiento</string>
     <string>Servicios</string>
   </Categories>
