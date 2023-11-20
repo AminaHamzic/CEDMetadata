@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="6874c7ee-3452-4482-971b-3acab9e93967" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1950" DisplayName="Censos historicos 1950" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1950" CountryName="" DocLinksAsString="" Categories="Censos historicos 1950;Población;Hogares;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="6874c7ee-3452-4482-971b-3acab9e93967" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1950" DisplayName="Censos históricos 1950" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1950" CountryName="" DocLinksAsString="" Categories="Censos historicos 1950;Población;Hogares;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>

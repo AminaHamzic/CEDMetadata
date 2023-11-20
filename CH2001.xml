@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="4a0c56a1-7b5e-40bd-b2e8-6c88d6021b12" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH2001" DisplayName="Censos historicos 2001" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2001" CountryName="" DocLinksAsString="" Categories="Censos historicos 2001;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="4a0c56a1-7b5e-40bd-b2e8-6c88d6021b12" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH2001" DisplayName="Censos históricos 2001" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2001" CountryName="" DocLinksAsString="" Categories="Censos históricos 2001;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -145,6 +145,6 @@
     </SurveyDataset>
   </SurveyDatasets>
   <Categories>
-    <string>Censos historicos 2001</string>
+    <string>Censos históricos 2001</string>
   </Categories>
 </survey>
