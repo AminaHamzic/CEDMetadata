@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="e9f655e6-ee37-4582-ab13-47b6c58f990f" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1991" DisplayName="Censos históricos 1991" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1991" CountryName="" DocLinksAsString="" Categories="Censos históricos 1991;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="e9f655e6-ee37-4582-ab13-47b6c58f990f" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1991" DisplayName="Censos históricos 1991" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1991" CountryName="" DocLinksAsString="" Categories="Censos históricos 1991;Hogares;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -83,7 +83,7 @@
             <Columns />
           </OutputFormat>
           <variable GUID="e1a4e6fd-d878-466f-b6ed-85604e65fb7f" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CH1991_001_CH_V1" label="Número de hogares" qLabel="" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
-          <variable GUID="3ee0c8a1-a5c6-44fd-96ac-74b68d1091b9" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CH1991_001_CH_V2" label="Personas por hogar" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="HH_SIZE_hist" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
+          <variable GUID="3ee0c8a1-a5c6-44fd-96ac-74b68d1091b9" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CH1991_001_CH_V2" label="Personas por hogar" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="11" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="HH_SIZE_hist" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
         </table>
         <table GUID="a924c343-c19a-461f-83bf-e7410741a505" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="CH1991_002" displayName="CH1991_002" title="Población presente" titleWrapped="Población presente" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="CH1991_002" source="" DefaultColumnCaption="" samplingInfo="">
           <mVisibleInMaps>true</mVisibleInMaps>
@@ -143,5 +143,6 @@
   </SurveyDatasets>
   <Categories>
     <string>Censos históricos 1991</string>
+    <string>Hogares</string>
   </Categories>
 </survey>
