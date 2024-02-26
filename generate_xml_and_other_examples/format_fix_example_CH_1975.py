@@ -185,9 +185,9 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'CH1960.xml','CH1970.xml','CH1981.xml'}
+    projects = {'CH1986.xml'}
 
-    project_template = 'CH1950.xml'
+    project_template = 'CH1975.xml'
 
     working_dir = r'C:\ExploradorSocial\CEDMetadata'
 
