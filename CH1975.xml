@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="855fa5a5-1d20-4173-8a61-ca27f27db8c3" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1975" DisplayName="Censos historicos 1975" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1975" CountryName="" DocLinksAsString="" Categories="Censos historicos 1975;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="855fa5a5-1d20-4173-8a61-ca27f27db8c3" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1975" DisplayName="Censos históricos 1975" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1975" CountryName="" DocLinksAsString="" Categories="Censos historicos 1975;Censos históricos;Población;Sexo;Poblamiento;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -107,5 +107,9 @@
   </SurveyDatasets>
   <Categories>
     <string>Censos historicos 1975</string>
+    <string>Censos históricos</string>
+    <string>Población</string>
+    <string>Sexo</string>
+    <string>Poblamiento</string>
   </Categories>
 </survey>
