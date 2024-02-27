@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="33a52f7d-7d94-4cbe-a41f-e07338a1e1ed" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1991" DisplayName="Censos historicos 1991" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1991" CountryName="" DocLinksAsString="" Categories="Censos historicos 1991;Censos históricos;Población;Sexo;Poblamiento;Hogares;Matrimonios;Educación;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="33a52f7d-7d94-4cbe-a41f-e07338a1e1ed" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1991" DisplayName="Censos históricos 1991" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1991" CountryName="" DocLinksAsString="" Categories="Censos históricos 1991;Censos históricos;Población;Sexo;Poblamiento;Hogares;Matrimonios;Educación;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -157,7 +157,7 @@
     </SurveyDataset>
   </SurveyDatasets>
   <Categories>
-    <string>Censos historicos 1991</string>
+    <string>Censos históricos 1991</string>
     <string>Censos históricos</string>
     <string>Población</string>
     <string>Sexo</string>

@@ -1,4 +1,4 @@
-<survey GUID="3c2377a0-25e9-4c94-bc57-e193c41748d6" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1981" DisplayName="Censos historicos 1981" year="1981" Categories="">
+<survey GUID="3c2377a0-25e9-4c94-bc57-e193c41748d6" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1981" DisplayName="Censos históricos 1981" year="1981" Categories="">
   <Description><![CDATA[]]></Description>
   <notes><![CDATA[]]></notes>
   <PrivateNotes><![CDATA[]]></PrivateNotes>
@@ -118,6 +118,6 @@
     </SurveyDataset>
   </SurveyDatasets>
   <Categories>
-    <string>Censos historicos 1981</string>
+    <string>Censos históricos 1981</string>
   </Categories>
 </survey>

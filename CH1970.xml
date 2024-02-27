@@ -1,4 +1,4 @@
-<survey GUID="9c70aea9-370b-4959-a472-ed937d3600a0" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1970" DisplayName="Censos historicos 1970" year="1970" Categories="">
+<survey GUID="9c70aea9-370b-4959-a472-ed937d3600a0" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1970" DisplayName="Censos históricos 1970" year="1970" Categories="">
   <Description><![CDATA[]]></Description>
   <notes><![CDATA[]]></notes>
   <PrivateNotes><![CDATA[]]></PrivateNotes>
@@ -130,6 +130,6 @@
     </SurveyDataset>
   </SurveyDatasets>
   <Categories>
-    <string>Censos historicos 1970</string>
+    <string>Censos históricos 1970</string>
   </Categories>
 </survey>

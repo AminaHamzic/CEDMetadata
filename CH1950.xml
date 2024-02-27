@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="d208ec19-8067-4bfc-8990-ae0c2c33af1e" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1950" DisplayName="Censos historicos 1950" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1950" CountryName="" DocLinksAsString="" Categories="Censos historicos 1950;Censos históricos;Población;Sexo;Poblamiento;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="d208ec19-8067-4bfc-8990-ae0c2c33af1e" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CH1950" DisplayName="Censos históricos 1950" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1950" CountryName="" DocLinksAsString="" Categories="Censos históricos 1950;Censos históricos;Población;Sexo;Poblamiento;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -130,7 +130,7 @@
     </SurveyDataset>
   </SurveyDatasets>
   <Categories>
-    <string>Censos historicos 1950</string>
+    <string>Censos históricos 1950</string>
     <string>Censos históricos</string>
     <string>Población</string>
     <string>Sexo</string>
