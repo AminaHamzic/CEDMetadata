@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="8d28b5b0-8e09-4a79-bce7-bcfe5fc8d33a" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELEC2023" DisplayName="Elecciones Generales 2023" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2023" CountryName="" DocLinksAsString="" Categories="Elecciones Generales 2023;Elecciones generales;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="8d28b5b0-8e09-4a79-bce7-bcfe5fc8d33a" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ELEC2023" DisplayName="Elecciones Generales 2023" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2023" CountryName="" DocLinksAsString="" Categories="Elecciones Generales 2023;Elecciones generales;Elecciones;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -134,7 +134,7 @@
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
           </OutputFormat>
-          <variable GUID="bd678420-5451-4a5e-859e-9a0581d2060a" MTT="#ORG.ELEC2023_002.ELEC2023_002_ELEC_V6" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELEC2023_004_ELEC_V28" label="Partido más votado" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="PartidoMassVotado2023" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+          <variable GUID="bd678420-5451-4a5e-859e-9a0581d2060a" MTT="#ORG.ELEC2023_002.ELEC2023_002_ELEC_V6" MIBtext="" UVID="" PT="" PI="false" PN="EG2019nov" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELEC2023_004_ELEC_V28" label="Partido más votado" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="PartidoMassVotado2023" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
         </table>
       </tables>
     </SurveyDataset>
@@ -142,5 +142,6 @@
   <Categories>
     <string>Elecciones Generales 2023</string>
     <string>Elecciones generales</string>
+    <string>Elecciones</string>
   </Categories>
 </survey>
