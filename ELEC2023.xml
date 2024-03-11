@@ -134,7 +134,7 @@
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns />
           </OutputFormat>
-          <variable GUID="bd678420-5451-4a5e-859e-9a0581d2060a" MTT="#ORG.ELEC2023_002.ELEC2023_002_ELEC_V6" MIBtext="" UVID="" PT="" PI="false" PN="EG2019nov" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELEC2023_004_ELEC_V28" label="Partido más votado" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="PartidoMassVotado2023" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+          <variable GUID="bd678420-5451-4a5e-859e-9a0581d2060a" MTT="#ORG.ELEC2023_002.ELEC2023_002_ELEC_V6" MIBtext="" UVID="" PT="" PI="false" PN="EG2023" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="ELEC2023_004_ELEC_V28" label="Partido más votado" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="PartidoMassVotado2023" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
         </table>
       </tables>
     </SurveyDataset>
