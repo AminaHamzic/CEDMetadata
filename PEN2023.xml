@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="4134ed7f-46d6-436f-a74e-1e7461ca5852" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="PEN2023" DisplayName="Pensionistas" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2023" CountryName="" DocLinksAsString="" Categories="Pensionistas;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="4134ed7f-46d6-436f-a74e-1e7461ca5852" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="PEN2023" DisplayName="Pensionistas 2023" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2023" CountryName="" DocLinksAsString="" Categories="Pensionistas;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
