@@ -185,9 +185,9 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'CENSOA2021.xml', 'CENSOA2023.xml'}
+    projects = {'CENSOA2022.xml', 'CENSOA2023.xml'}
 
-    project_template = ''CENSOA2022.xml''
+    project_template = 'CENSOA2021.xml'
 
     working_dir = r'C:\ExploradorSocial\CEDMetadata'
 
