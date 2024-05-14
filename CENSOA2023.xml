@@ -83,7 +83,7 @@
       </datasets>
       <iterations/>
       <tables>
-        <table GUID="c0aa2554-7879-45b8-bd1e-43ed518936ec" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="CENSOA2023_001" displayName="CENSOA2023_001" title="Poblaci&#243;n por sexo y pa&#237;s de nacimiento" titleWrapped="Poblaci&#243;n por sexo y pa&#237;s de nacimiento" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="CENSOA2023_001" source="CENSOA2021_001" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="cf77aee5-82f1-42a5-a784-856bdff0951d" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="CENSOA2023_001" displayName="CENSOA2023_001" title="Poblaci&#243;n por sexo y pa&#237;s de nacimiento" titleWrapped="Poblaci&#243;n por sexo y pa&#237;s de nacimiento" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="CENSOA2023_001" source="CENSOA2021_001" DefaultColumnCaption="" samplingInfo="">
           <mVisibleInMaps>true</mVisibleInMaps>
           <OutputFormat TableTitle="" TableUniverse="">
             <Columns/>
