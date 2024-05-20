@@ -21,20 +21,16 @@ def main():
     # set this to true if you want to fix characters in all projects
     fix_all_projects = False
 
-    path = Path(r'C:\Projects\Website-ASP.NET\pub\ReportData\Metadata')  # r'C:\Projects\CEDMetadata')
+    path = Path(r'C:\Projects\Website-ASP.NET\pub\ReportData\Metadata')  # r'C:\ExploradorSocial\CEDMetadata')
 
     if fix_all_projects:
         project_list = [project.name for project in path.iterdir() if project.name.endswith('.xml')]
     else:
         # in case you don't want all projects to be checked, you can create a list of selected projects for fixing
-        project_list = {'PC2011.xml','CA2009.xml', 'PC2018.xml',
-                        'NOMEN2011.xml', 'ELEC2011.xml',
-                        'SSOC2011.xml', 'TCN2011.xml',
-                        'nac2011.xml', 'renta2016.xml',
-                        'EVR2011.xml', 'DEF2011.xml',
-                        'PERE2011.xml', 'SHP2011.xml',
-                        'VEH2014.xml', 'mat2011.xml',
-                        'CON2011.xml', 'CATAS2012.xml','SSPEN2018.xml'}
+        project_list = {'PEN2015.xml','PEN2016.xml', 'PEN2017.xml',
+                        'PEN2018.xml', 'PEN2019.xml',
+                        'PEN2020.xml', 'PEN2021.xml',
+                        'PEN2022.xml'}
 
     chars_to_replace = {'Ã³': 'ó', 'Ã¡': 'á', 'Ã±': 'ñ', 'Ãº': 'ú', 'Ã©': 'é'}
 
