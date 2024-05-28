@@ -21,7 +21,7 @@ def main():
     # set this to true if you want to fix characters in all projects
     fix_all_projects = False
 
-    path = Path(r'C:\Projects\Website-ASP.NET\pub\ReportData\Metadata')  # r'C:\ExploradorSocial\CEDMetadata')
+    path = Path(r'C:\ExploradorSocial\CEDMetadata')  # r'C:\ExploradorSocial\CEDMetadata')
 
     if fix_all_projects:
         project_list = [project.name for project in path.iterdir() if project.name.endswith('.xml')]
