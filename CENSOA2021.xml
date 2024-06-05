@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="dcb1c6bf-7da7-4331-a212-d2c3c019a4b1" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CENSOA2021" DisplayName="Censo anual 2021" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2021" CountryName="" DocLinksAsString="" Categories="Censo anual 2021;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="dcb1c6bf-7da7-4331-a212-d2c3c019a4b1" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="CENSOA2021" DisplayName="Censo anual 2021" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2021" CountryName="" DocLinksAsString="" Categories="Censo anual 2021;Lugar de nacimiento;Nacionalidad;Edad;Educación;Empleo;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -308,5 +308,10 @@
   </SurveyDatasets>
   <Categories>
     <string>Censo anual 2021</string>
+    <string>Lugar de nacimiento</string>
+    <string>Nacionalidad</string>
+    <string>Edad</string>
+    <string>Educación</string>
+    <string>Empleo</string>
   </Categories>
 </survey>
