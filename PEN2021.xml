@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="df6385f8-0323-4118-a16d-09f4ad80aad4" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="PEN2021" DisplayName="Pensionistas 2021" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2021" CountryName="" DocLinksAsString="" Categories="Pensionistas;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="df6385f8-0323-4118-a16d-09f4ad80aad4" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="PEN2021" DisplayName="Pensionistas 2021" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2021" CountryName="" DocLinksAsString="" Categories="Pensionistas;Pensiones;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -77,6 +77,14 @@
       </datasets>
       <iterations />
       <tables>
+        <table GUID="3edd0bf7-4d7a-433a-b136-30b5a40735f6" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="PEN2021_005" displayName="PEN2021_005" title="Pensiones y pensión media (â‚¬/mes) por municipios " titleWrapped="Pensiones y pensión media (â‚¬/mes) por municipios " titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Pensiones;" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="005" uniqueTableId="PEN2021_005" source="" DefaultColumnCaption="" samplingInfo="">
+          <mVisibleInMaps>true</mVisibleInMaps>
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns />
+          </OutputFormat>
+          <variable GUID="dce10caf-8aa5-4c74-b3ed-abbd99620997" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PEN2021_005_PEN_V67" label="Número de pensiones" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
+          <variable GUID="a0ca67a5-87e8-41cb-b15a-295151d37827" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PEN2021_005_PEN_V68" label="Pensión media" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="PENSIONES_SPAIN" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        </table>
         <table GUID="4139f5e3-b4ff-41b4-9c74-d80e7208bc23" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="PEN2021_001" displayName="PEN2021_001" title="Número de pesiones y pensión media (â‚¬/mes) según clase" titleWrapped="Número de pesiones y pensión media (â‚¬/mes) según clase" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="Pensiones;" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="PEN2021_001" source="" DefaultColumnCaption="" samplingInfo="">
           <mVisibleInMaps>true</mVisibleInMaps>
           <OutputFormat TableTitle="" TableUniverse="">
@@ -167,14 +175,6 @@
           <variable GUID="6ee8b028-180d-4fc9-b8c6-3eeb2dc0e938" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PEN2021_004_PEN_V65" label="Orfandad" qLabel="" indent="1" dataType="7" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
           <variable GUID="fa88d740-63e6-4e56-a72e-e66b792f3753" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PEN2021_004_PEN_V66" label="Favor familiar" qLabel="" indent="1" dataType="7" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
         </table>
-        <table GUID="3edd0bf7-4d7a-433a-b136-30b5a40735f6" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="PEN2021_005" displayName="PEN2021_005" title="Pensiones y pensión media (â‚¬/mes) por municipios " titleWrapped="Pensiones y pensión media (â‚¬/mes) por municipios " titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="Pensiones;" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="005" uniqueTableId="PEN2021_005" source="" DefaultColumnCaption="" samplingInfo="">
-          <mVisibleInMaps>true</mVisibleInMaps>
-          <OutputFormat TableTitle="" TableUniverse="">
-            <Columns />
-          </OutputFormat>
-          <variable GUID="dce10caf-8aa5-4c74-b3ed-abbd99620997" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PEN2021_005_PEN_V67" label="Número de pensiones" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
-          <variable GUID="a0ca67a5-87e8-41cb-b15a-295151d37827" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PEN2021_005_PEN_V68" label="Pensión media" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
-        </table>
         <table GUID="e262711b-3f45-4a19-affd-dcb96c5d968c" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="PEN2021_006" displayName="PEN2021_006" title="Número de pesiones y pensión media (â‚¬/mes) según régimen" titleWrapped="Número de pesiones y pensión media (â‚¬/mes) según régimen" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="Pensiones;" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="006" uniqueTableId="PEN2021_006" source="" DefaultColumnCaption="" samplingInfo="">
           <mVisibleInMaps>true</mVisibleInMaps>
           <OutputFormat TableTitle="" TableUniverse="">
@@ -202,5 +202,6 @@
   </SurveyDatasets>
   <Categories>
     <string>Pensionistas</string>
+    <string>Pensiones</string>
   </Categories>
 </survey>
