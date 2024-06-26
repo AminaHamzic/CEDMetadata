@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="c8953090-5774-4af1-981d-106ad947ee10" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="GCLIMATE1950" DisplayName="Clima 1920-1950" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1950" CountryName="" DocLinksAsString="" Categories="Clima 1950;Clima;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="c8953090-5774-4af1-981d-106ad947ee10" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="GCLIMATE1950" DisplayName="Clima 1921-1950" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="1950" CountryName="" DocLinksAsString="" Categories="Clima 1950;Clima;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
