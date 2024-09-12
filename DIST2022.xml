@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="78874306-5419-425d-a37f-f40dcdcf9783" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="DIST2022" DisplayName="Distancias a puntos de interes y servicios" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2022" CountryName="" DocLinksAsString="" Categories="Distancias a puntos de interes y servicios;Poblamiento;Reto demográfico;Servicios;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="78874306-5419-425d-a37f-f40dcdcf9783" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="DIST2022" DisplayName="Distancias a puntos de interés y servicios" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2022" CountryName="" DocLinksAsString="" Categories="Distancias a puntos de interes y servicios;Poblamiento;Reto demográfico;Servicios;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
