@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="99bdff1d-9810-4f1a-a3dd-0ab7819eda60" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="SSOC2021" DisplayName="Seguridad Social 2021" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2021" CountryName="" DocLinksAsString="" Categories="Altas laborales 2021;Empleo y desempleo;Empleo;Actividad económica;">
+  <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
+  <Description><![CDATA[]]></Description>
+  <Notes><![CDATA[]]></Notes>
+  <PrivateNotes><![CDATA[]]></PrivateNotes>
+  <Documentation Label="Documentation">
+    <DocumentLinks />
+  </Documentation>
+  <geoTypes>
+    <geoType MapDisplayScale="" GUID="c1988835-b4cc-4df9-acef-c042681ce19d" SearchPriorityCode="" Name="SL010" Label="TOTAL" QLabel="TOTAL" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="TOTAL" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="0" Sumlev="010" FipsCodeLength="2" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="TOTAL" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
+      <Visible>true</Visible>
+    </geoType>
+    <geoType MapDisplayScale="" GUID="ccbe5c7c-cdd5-41f5-bed9-e8228093a88e" SearchPriorityCode="" Name="SL030" Label="CCAA" QLabel="CCAA" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="CCAA" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="1" Sumlev="030" FipsCodeLength="4" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="CCAA" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
+      <Visible>true</Visible>
+    </geoType>
+    <geoType MapDisplayScale="" GUID="0754e676-675d-47c7-b5b9-70faa5aae883" SearchPriorityCode="" Name="SL040" Label="PROVINCIA" QLabel="PROVINCIA" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="PROVINCIA" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="2" Sumlev="040" FipsCodeLength="6" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="PROVINCIA" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
+      <Visible>true</Visible>
+    </geoType>
+    <geoType MapDisplayScale="" GUID="55be05ac-bed9-427d-9ea7-c4f3c8362a68" SearchPriorityCode="" Name="SL050" Label="MUNICIPIO" QLabel="MUNICIPIO" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="MUNICIPIO" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="3" Sumlev="050" FipsCodeLength="11" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="MUNICIPIO" FipsCodePartialLength="5" Notes="" DocSectionLinks="">
+      <Visible>true</Visible>
+    </geoType>
+  </geoTypes>
+  <GeoSurveyDataset GUID="08d39275-1e92-4932-adf2-c565fbc9ad9c" DocLinksAsString="" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" description="" ProductTags="" Visible="false" abbreviation="Geo" source="" publisher="" name="Geography Summary File" DisplayName="Geography Summary File">
+    <DataBibliographicInfo />
+    <notes />
+    <PrivateNotes><![CDATA[]]></PrivateNotes>
+    <Description><![CDATA[]]></Description>
+    <datasets>
+      <dataset GUID="be50f5e9-9f5f-40eb-9e48-b7f7d8d8d9e0" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL010_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      <dataset GUID="a1c4ddab-d28f-49ee-bbee-4e8ea8838c39" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL030_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      <dataset GUID="14f2a4ec-5d9c-44da-91c0-19b51e05be42" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL040_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      <dataset GUID="fa43a29a-4036-4d94-83c1-2bd52ca2c6be" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL050_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+    </datasets>
+    <iterations />
+    <tables>
+      <table GUID="ed74bd9c-7ed6-4080-b8ea-30f8d315df75" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="G001" displayName="G1." title="Geography Identifiers" titleWrapped="Geography Identifiers" titleShort="" universe="none" Visible="false" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="G001" source="" DefaultColumnCaption="" samplingInfo="">
+        <mVisibleInMaps>true</mVisibleInMaps>
+        <OutputFormat TableTitle="" TableUniverse="">
+          <Columns />
+        </OutputFormat>
+        <variable GUID="b00c9483-92ac-497b-8eb0-6bef9f9980a5" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="QNAME" label="Qualifying Name" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="bdf68ce6-08d4-4918-ae6f-55633f2b53b6" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="NAME" label="Name of Area" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="648f1215-b40b-4841-ac60-487aa445d524" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="FIPS" label="FIPS" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="0c73b24a-5ded-4b83-8e90-16258aa53e48" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="TOTAL" label="TOTAL" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="45537e34-c572-434b-952d-0100f80ebddb" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CCAA" label="CCAA" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="b0de4a28-6b96-4c86-a6b4-3de4b1ba963d" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PROVINCIA" label="PROVINCIA" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="992b9147-7160-4d24-84b5-b01cf3e0f33f" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="MUNICIPIO" label="MUNICIPIO" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+      </table>
+    </tables>
+  </GeoSurveyDataset>
+  <SurveyDatasets>
+    <SurveyDataset GUID="fe43e9b9-a1ad-4d1a-a3e6-7c61dfd9d647" DocLinksAsString="" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" description="" ProductTags="" Visible="false" abbreviation="SE" source="" publisher="" name="CED Tables" DisplayName="CED Tables">
+      <DataBibliographicInfo />
+      <notes />
+      <PrivateNotes><![CDATA[]]></PrivateNotes>
+      <Description><![CDATA[]]></Description>
+      <datasets>
+        <dataset GUID="25b3eb2d-0206-4fd1-bfc9-434de472410a" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL010_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="98293a53-073c-495a-a04c-0d8b804c72e8" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL030_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="bf1279d9-e80c-4f6b-b428-b73538a22657" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL040_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="25c71b96-556f-4166-bcf2-950464406ccf" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL050_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      </datasets>
+      <iterations />
+      <tables />
+    </SurveyDataset>
+    <SurveyDataset GUID="d9d95381-2186-4ac5-90ac-fceeb3658910" DocLinksAsString="" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" description="" ProductTags="" Visible="true" abbreviation="ORG" source="" publisher="" name="Original Tables" DisplayName="Original Tables">
+      <DataBibliographicInfo />
+      <notes />
+      <PrivateNotes><![CDATA[]]></PrivateNotes>
+      <Description><![CDATA[]]></Description>
+      <datasets>
+        <dataset GUID="80e680cf-acbb-4c9f-bbd6-a5c6ed972be3" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL010_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="c4722f60-f1c8-44b4-b44b-9c68cdcdd6ce" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL030_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="2df4c543-0b3e-4a73-934e-4792a2b566f9" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL040_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="9da2ad2e-4222-4d75-8f3a-deecd65e95ab" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="SSOC2021" GeoIdDbTableName="SSOC2021_SL050_001" IsCached="false" DbTableNamePrefix="SSOC2021_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      </datasets>
+      <iterations />
+      <tables>
+        <table GUID="1aeeee85-9975-4375-ab5b-a833b8bf0a82" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="SSOC2021_001" displayName="SSOC2021_001" title="Empleados cotizantes por régimen de cotización" titleWrapped="Empleados cotizantes por régimen de cotización" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Empleo y desempleo;Empleo;Actividad económica;" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="SSOC2021_001" source="SSOC2011_001" DefaultColumnCaption="SSOC2018_001" samplingInfo="SSOC2011_001">
+          <mVisibleInMaps>true</mVisibleInMaps>
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns />
+          </OutputFormat>
+          <variable GUID="e99dcf17-db5e-41e5-9e5d-cfab66ea405d" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="cedevita" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="SSOC2021_001_SSOC_V1" label="Total cotizantes" qLabel="Total cotizantes" indent="0" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="DECIL_SPAIN" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
+          <variable GUID="e9643418-80b3-428c-b83c-ef5bc67403df" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="cedevita" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="SSOC2021_001_SSOC_V2" label="Reg. General" qLabel="Reg. General" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="DECIL_SPAIN" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
+          <variable GUID="5ea13a8f-48eb-47c5-9bfb-4fc81d281c77" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="cedevita" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="SSOC2021_001_SSOC_V3" label="Especial agrario" qLabel="Especial agrario" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="DECIL_SPAIN" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
+          <variable GUID="784eaabb-686e-45b0-9027-d2adfd29ec42" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="cedevita" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="SSOC2021_001_SSOC_V4" label="Especial del mar" qLabel="Especial del mar" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="DECIL_SPAIN" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
+          <variable GUID="3b0e2894-342f-4f36-8bfd-e5baaf17ce64" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="cedevita" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="SSOC2021_001_SSOC_V5" label="Especial de hogar" qLabel="Especial de hogar" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="DECIL_SPAIN" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
+          <variable GUID="e6fe06b8-b5fe-43d3-bfc6-0fd98348b573" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="cedevita" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="SSOC2021_001_SSOC_V6" label="Especial autónomos" qLabel="Especial autónomos" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="DECIL_SPAIN" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
+          <variable GUID="ad8a5b40-13cf-4671-8a34-ee2be1a72c76" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="cedevita" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="SSOC2021_001_SSOC_V7" label="Especial del carbón" qLabel="Especial del carbón" indent="1" dataType="4" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="DECIL_SPAIN" AggregationStr="Add" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        </table>
+        <table GUID="92bcb068-3f38-4fad-b8df-3733dcab6296" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="SSOC2021_002" displayName="SSOC2021_002" title="Empleados cotizantes por 100 habitantes en edad activa" titleWrapped="Empleados cotizantes por 100 habitantes en edad activa" titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="002" uniqueTableId="SSOC2021_002" source="SSOC2011_002" DefaultColumnCaption="SSOC2018_002" samplingInfo="SSOC2011_002">
+          <mVisibleInMaps>true</mVisibleInMaps>
+          <OutputFormat TableTitle="" TableUniverse="">
+            <Columns />
+          </OutputFormat>
+          <variable GUID="c301d863-8a43-4ead-8fa3-2aabd57784ec" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="cedevita" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="SSOC2021_002_SSOC_V8" label="Cotizantes por 100 habitantes en edad activa" qLabel="Cotizantes por 100 habitantes en edad activa" indent="0" dataType="2" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="DECIL_SPAIN" AggregationStr="Rate|||100000" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        </table>
+      </tables>
+    </SurveyDataset>
+  </SurveyDatasets>
+  <Categories>
+    <string>Altas laborales 2021</string>
+    <string>Empleo y desempleo</string>
+    <string>Empleo</string>
+    <string>Actividad económica</string>
+  </Categories>
+</survey>
