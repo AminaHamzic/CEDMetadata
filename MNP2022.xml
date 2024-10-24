@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="7abb8ba6-6549-4a4b-a3f2-af58c601fd15" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="MNP2022" DisplayName="Movimiento Natural de la Poblacion" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2022" CountryName="" DocLinksAsString="" Categories="Movimiento Natural de la Poblacion;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="7abb8ba6-6549-4a4b-a3f2-af58c601fd15" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="MNP2022" DisplayName="Movimiento Natural de la Poblacion 2022" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2022" CountryName="" DocLinksAsString="" Categories="Movimiento Natural de la Poblacion;Nacimientos;Defunciones;Matrimonios;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -91,5 +91,8 @@
   </SurveyDatasets>
   <Categories>
     <string>Movimiento Natural de la Poblacion</string>
+    <string>Nacimientos</string>
+    <string>Defunciones</string>
+    <string>Matrimonios</string>
   </Categories>
 </survey>
