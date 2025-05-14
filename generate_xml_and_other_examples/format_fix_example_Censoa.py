@@ -185,7 +185,7 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'CENSOA2022.xml', 'CENSOA2023.xml'}
+    projects = {'CENSOA2022.xml', 'CENSOA2023.xml', 'CENSOA2024.xml'}
 
     project_template = 'CENSOA2021.xml'
 
