@@ -1,92 +1,95 @@
-<survey GUID="e8d2d2e5-26db-4f3a-84eb-1567b90a2bdb" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="PRE2024" DisplayName="Presupuesto y liquidaciones de las entidades locales 2024" year="2024" Categories="">
+<?xml version="1.0" encoding="utf-8"?>
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="e8d2d2e5-26db-4f3a-84eb-1567b90a2bdb" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="PRE2024" DisplayName="Presupuesto y liquidaciones de las entidades locales 2024" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2024" CountryName="" DocLinksAsString="" Categories="Presupuestos Municipales 2022;Presupuestos municipales;">
+  <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
-  <notes><![CDATA[]]></notes>
+  <Notes><![CDATA[]]></Notes>
   <PrivateNotes><![CDATA[]]></PrivateNotes>
-  <documentation Label="Documentation">
-    <documentlinks/>
-  </documentation>
+  <Documentation Label="Documentation">
+    <DocumentLinks />
+  </Documentation>
   <geoTypes>
-    <geoType GUID="ff1fb431-4824-4761-b010-a722aa47d9a1" Name="SL010" Label="TOTAL" QLabel="TOTAL" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="TOTAL" fullCoverage="true" majorGeo="true" Indent="0" Sumlev="010" FipsCodeLength="2" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="TOTAL" FipsCodePartialLength="2">
+    <geoType MapDisplayScale="" GUID="ff1fb431-4824-4761-b010-a722aa47d9a1" SearchPriorityCode="" Name="SL010" Label="TOTAL" QLabel="TOTAL" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="TOTAL" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="0" Sumlev="010" FipsCodeLength="2" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="TOTAL" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
       <Visible>true</Visible>
     </geoType>
-    <geoType GUID="69a60886-25d0-45cd-9162-5f57e8dad100" Name="SL030" Label="CCAA" QLabel="CCAA" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="CCAA" fullCoverage="true" majorGeo="true" Indent="1" Sumlev="030" FipsCodeLength="4" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="CCAA" FipsCodePartialLength="2">
+    <geoType MapDisplayScale="" GUID="69a60886-25d0-45cd-9162-5f57e8dad100" SearchPriorityCode="" Name="SL030" Label="CCAA" QLabel="CCAA" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="CCAA" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="1" Sumlev="030" FipsCodeLength="4" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="CCAA" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
       <Visible>true</Visible>
     </geoType>
-    <geoType GUID="ff167c3e-6184-46e2-b300-150d0da1babf" Name="SL040" Label="PROVINCIA" QLabel="PROVINCIA" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="PROVINCIA" fullCoverage="true" majorGeo="true" Indent="2" Sumlev="040" FipsCodeLength="6" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="PROVINCIA" FipsCodePartialLength="2">
+    <geoType MapDisplayScale="" GUID="ff167c3e-6184-46e2-b300-150d0da1babf" SearchPriorityCode="" Name="SL040" Label="PROVINCIA" QLabel="PROVINCIA" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="PROVINCIA" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="2" Sumlev="040" FipsCodeLength="6" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="PROVINCIA" FipsCodePartialLength="2" Notes="" DocSectionLinks="">
       <Visible>true</Visible>
     </geoType>
-    <geoType GUID="d9f80d3a-afdc-4e0e-ad7e-ab4f7908bb33" Name="SL050" Label="MUNICIPIO" QLabel="MUNICIPIO" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="MUNICIPIO" fullCoverage="true" majorGeo="true" Indent="3" Sumlev="050" FipsCodeLength="11" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="MUNICIPIO" FipsCodePartialLength="5">
+    <geoType MapDisplayScale="" GUID="d9f80d3a-afdc-4e0e-ad7e-ab4f7908bb33" SearchPriorityCode="" Name="SL050" Label="MUNICIPIO" QLabel="MUNICIPIO" AvailabilityNote="" SourceFilesInfo="" RelevantGeoIDs="FIPS,NAME,QName,TOTAL,CCAA,PROVINCIA,MUNICIPIO" PluralName="MUNICIPIO" fullCoverage="true" majorGeo="true" GeoAbrev="" Indent="3" Sumlev="050" FipsCodeLength="11" FipsCodeFieldName="FIPS" FipsCodePartialFieldName="MUNICIPIO" FipsCodePartialLength="5" Notes="" DocSectionLinks="">
       <Visible>true</Visible>
     </geoType>
   </geoTypes>
-  <GeoSurveyDataset GUID="a597dab4-f6c0-4eeb-a166-53619ea99c52" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" Description="Geographic Summary Count" Visible="false" abbreviation="Geo" name="Geography Summary File" DisplayName="Geography Summary File">
-    <DataBibliographicInfo/>
-    <notes/>
+  <GeoSurveyDataset GUID="a597dab4-f6c0-4eeb-a166-53619ea99c52" DocLinksAsString="" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" description="" ProductTags="" Visible="false" abbreviation="Geo" source="" publisher="" name="Geography Summary File" DisplayName="Geography Summary File">
+    <DataBibliographicInfo />
+    <notes />
     <PrivateNotes><![CDATA[]]></PrivateNotes>
     <Description><![CDATA[]]></Description>
     <datasets>
-      <dataset GUID="4c002e7d-a7e0-458e-bf5c-c0acc1e3790b" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL010_001" IsCached="false" DbTableNamePrefix="PRE2024_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1"/>
-      <dataset GUID="f5395188-c9d8-4099-8b97-c09dec68089f" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL030_001" IsCached="false" DbTableNamePrefix="PRE2024_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1"/>
-      <dataset GUID="ccecc044-52c8-4872-916d-ea1b9bf5679a" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL040_001" IsCached="false" DbTableNamePrefix="PRE2024_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1"/>
-      <dataset GUID="399b7764-d4bd-4ef7-acc5-c9bc49329acd" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL050_001" IsCached="false" DbTableNamePrefix="PRE2024_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1"/>
+      <dataset GUID="4c002e7d-a7e0-458e-bf5c-c0acc1e3790b" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL010_001" IsCached="false" DbTableNamePrefix="PRE2024_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      <dataset GUID="f5395188-c9d8-4099-8b97-c09dec68089f" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL030_001" IsCached="false" DbTableNamePrefix="PRE2024_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      <dataset GUID="ccecc044-52c8-4872-916d-ea1b9bf5679a" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL040_001" IsCached="false" DbTableNamePrefix="PRE2024_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+      <dataset GUID="399b7764-d4bd-4ef7-acc5-c9bc49329acd" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL050_001" IsCached="false" DbTableNamePrefix="PRE2024_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
     </datasets>
-    <iterations/>
+    <iterations />
     <tables>
-      <table GUID="eaebfbca-4c0e-4230-a7e1-c5be61b51a47" VariablesAreExclusive="false" notes="" PrivateNotes="" DollarYear="0" PercentBaseMin="1" name="G001" displayName="G1." title="Geography Identifiers" titleWrapped="Geography Identifiers" titleShort="" universe="none" Visible="false" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="G001" source="" DefaultColumnCaption="" samplingInfo="">
+      <table GUID="eaebfbca-4c0e-4230-a7e1-c5be61b51a47" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="G001" displayName="G1." title="Geography Identifiers" titleWrapped="Geography Identifiers" titleShort="" universe="none" Visible="false" VisibleInMaps="true" TreeNodeCollapsed="true" DocSectionLinks="" DataCategories="" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="G001" source="" DefaultColumnCaption="" samplingInfo="">
+        <mVisibleInMaps>true</mVisibleInMaps>
         <OutputFormat TableTitle="" TableUniverse="">
-          <Columns/>
+          <Columns />
         </OutputFormat>
-        <variable GUID="433d0cba-17ef-434c-9265-2a8eb90ae09f" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="QNAME" label="Qualifying Name" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
-        <variable GUID="cf58cc96-fb4f-4c16-90b2-84db945bc3ef" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="NAME" label="Name of Area" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
-        <variable GUID="399cd5c1-ad7e-4d68-b02b-eb707e717ccc" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="FIPS" label="FIPS" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
-        <variable GUID="68f7b601-2eab-43cf-8c5a-69460984c1cb" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="TOTAL" label="TOTAL" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
-        <variable GUID="04567b49-37df-4683-bd81-3643c1a07c0a" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CCAA" label="CCAA" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
-        <variable GUID="924a5f70-cb08-47d5-a516-c7ba16a9746c" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PROVINCIA" label="PROVINCIA" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
-        <variable GUID="fedb6643-d9b6-4d99-8ccb-c36f3e36f158" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="MUNICIPIO" label="MUNICIPIO" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" AggregationStr="None"/>
+        <variable GUID="433d0cba-17ef-434c-9265-2a8eb90ae09f" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="QNAME" label="Qualifying Name" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="cf58cc96-fb4f-4c16-90b2-84db945bc3ef" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="NAME" label="Name of Area" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="399cd5c1-ad7e-4d68-b02b-eb707e717ccc" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="FIPS" label="FIPS" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="68f7b601-2eab-43cf-8c5a-69460984c1cb" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="TOTAL" label="TOTAL" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="04567b49-37df-4683-bd81-3643c1a07c0a" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="CCAA" label="CCAA" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="924a5f70-cb08-47d5-a516-c7ba16a9746c" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PROVINCIA" label="PROVINCIA" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
+        <variable GUID="fedb6643-d9b6-4d99-8ccb-c36f3e36f158" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="MUNICIPIO" label="MUNICIPIO" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="0" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="0" DocLinksAsString="" FR="" AggregationStr="None" BubbleSizeHint="1" PVT="0" PVVT="0" />
       </table>
     </tables>
   </GeoSurveyDataset>
   <SurveyDatasets>
-    <SurveyDataset GUID="c4908366-a1eb-4058-8aba-bdebe15919a8" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" Description="" Visible="false" abbreviation="SE" name="CED Tables" DisplayName="CED Tables">
-      <DataBibliographicInfo/>
-      <notes/>
+    <SurveyDataset GUID="c4908366-a1eb-4058-8aba-bdebe15919a8" DocLinksAsString="" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" description="" ProductTags="" Visible="false" abbreviation="SE" source="" publisher="" name="CED Tables" DisplayName="CED Tables">
+      <DataBibliographicInfo />
+      <notes />
       <PrivateNotes><![CDATA[]]></PrivateNotes>
       <Description><![CDATA[]]></Description>
       <datasets>
-        <dataset GUID="19198d1a-69bd-4d52-b271-cfd73f216056" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL010_001" IsCached="false" DbTableNamePrefix="PRE2024_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1"/>
-        <dataset GUID="dc271ccc-27be-4520-8969-56f8f6b33b31" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL030_001" IsCached="false" DbTableNamePrefix="PRE2024_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1"/>
-        <dataset GUID="77af4578-3c7c-43aa-b4f9-d3751813a9b0" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL040_001" IsCached="false" DbTableNamePrefix="PRE2024_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1"/>
-        <dataset GUID="b5ad1a71-c627-44ca-9eab-866c9b8805ce" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL050_001" IsCached="false" DbTableNamePrefix="PRE2024_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1"/>
+        <dataset GUID="19198d1a-69bd-4d52-b271-cfd73f216056" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL010_001" IsCached="false" DbTableNamePrefix="PRE2024_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="dc271ccc-27be-4520-8969-56f8f6b33b31" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL030_001" IsCached="false" DbTableNamePrefix="PRE2024_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="77af4578-3c7c-43aa-b4f9-d3751813a9b0" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL040_001" IsCached="false" DbTableNamePrefix="PRE2024_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="b5ad1a71-c627-44ca-9eab-866c9b8805ce" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL050_001" IsCached="false" DbTableNamePrefix="PRE2024_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
       </datasets>
-      <iterations/>
-      <tables>
-        <!--Insert SE tables here !!!-->
-      </tables>
+      <iterations />
+      <tables />
     </SurveyDataset>
-    <SurveyDataset GUID="d39c4b7d-9f09-498c-b8d5-7be1ed770f1f" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" Description="" Visible="true" abbreviation="ORG" name="Original Tables" DisplayName="Original Tables">
-      <DataBibliographicInfo/>
-      <notes/>
+    <SurveyDataset GUID="d39c4b7d-9f09-498c-b8d5-7be1ed770f1f" DocLinksAsString="" SurveyDatasetTreeNodeExpanded="true" TablesTreeNodeExpanded="true" IterationsTreeNodeExpanded="false" DatasetsTreeNodeExpanded="true" description="" ProductTags="" Visible="true" abbreviation="ORG" source="" publisher="" name="Original Tables" DisplayName="Original Tables">
+      <DataBibliographicInfo />
+      <notes />
       <PrivateNotes><![CDATA[]]></PrivateNotes>
       <Description><![CDATA[]]></Description>
       <datasets>
-        <dataset GUID="8688244c-68bf-4e8d-b2f9-1528b7d49949" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL010_001" IsCached="false" DbTableNamePrefix="PRE2024_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1"/>
-        <dataset GUID="c165cd40-9f39-4fdc-b51e-0e96153fe351" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL030_001" IsCached="false" DbTableNamePrefix="PRE2024_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1"/>
-        <dataset GUID="de61e74f-01e3-4476-8ad6-b374154f4202" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL040_001" IsCached="false" DbTableNamePrefix="PRE2024_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1"/>
-        <dataset GUID="d10a3c29-23a8-4c32-9b61-64c7e3130388" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL050_001" IsCached="false" DbTableNamePrefix="PRE2024_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1"/>
+        <dataset GUID="8688244c-68bf-4e8d-b2f9-1528b7d49949" GeoTypeName="SL010" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL010_001" IsCached="false" DbTableNamePrefix="PRE2024_SL010_" DbPrimaryKey="SL010_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="c165cd40-9f39-4fdc-b51e-0e96153fe351" GeoTypeName="SL030" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL030_001" IsCached="false" DbTableNamePrefix="PRE2024_SL030_" DbPrimaryKey="SL010_FIPS,SL030_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="de61e74f-01e3-4476-8ad6-b374154f4202" GeoTypeName="SL040" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL040_001" IsCached="false" DbTableNamePrefix="PRE2024_SL040_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
+        <dataset GUID="d10a3c29-23a8-4c32-9b61-64c7e3130388" GeoTypeName="SL050" DbConnString="Server=prime; database=; uid=none;pwd=none;Connect Timeout=1;Pooling=True" DbConnString2="" DbName="PRE2024" GeoIdDbTableName="PRE2024_SL050_001" IsCached="false" DbTableNamePrefix="PRE2024_SL050_" DbPrimaryKey="SL010_FIPS,SL030_FIPS,SL040_FIPS,SL050_FIPS" DbCopyCount="1" Notes="" UnavailableTables="" />
       </datasets>
-      <iterations/>
+      <iterations />
       <tables>
-        <table GUID="703c84ae-9fcc-41ef-b0b1-cafe021b771b" VariablesAreExclusive="false" DollarYear="0" PercentBaseMin="1" name="PRE2024_001" displayName="PRE2024_001" title="Presupuestos municipales. Gastos " titleWrapped="Presupuestos municipales. Gastos " universe="none" Visible="true" TreeNodeCollapsed="false" CategoryPriorityOrder="0" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="PRE2024_001" notes="" PrivateNotes="" TableMapInfo="" titleShort="" VisibleInMaps="true" DocSectionLinks="" DataCategories="Presupuestos municipales;" ProductTags="" FilterRuleName="" PaletteType="" PaletteInverse="false" PaletteName="" source="PRE2018_001" DefaultColumnCaption="" samplingInfo="">
+        <table GUID="703c84ae-9fcc-41ef-b0b1-cafe021b771b" VariablesAreExclusive="false" notes="" PrivateNotes="" TableMapInfo="" DollarYear="0" PercentBaseMin="1" name="PRE2024_001" displayName="PRE2024_001" title="Presupuestos municipales. Gastos " titleWrapped="Presupuestos municipales. Gastos " titleShort="" universe="none" Visible="true" VisibleInMaps="true" TreeNodeCollapsed="false" DocSectionLinks="" DataCategories="Presupuestos municipales;" DT="" ProductTags="" FilterRuleName="" CategoryPriorityOrder="0" PaletteType="" PaletteInverse="false" PaletteName="" ShowOnFirstPageOfCategoryListing="false" DbTableSuffix="001" uniqueTableId="PRE2024_001" source="PRE2018_001" DefaultColumnCaption="" samplingInfo="">
+          <mVisibleInMaps>true</mVisibleInMaps>
           <OutputFormat TableTitle="" TableUniverse="">
-            <Columns/>
+            <Columns />
           </OutputFormat>
-          <variable GUID="531e0406-371f-499b-beb9-0e38e26c75a9" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PRE2024_001_PRE_V1" label="Total en euros" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" AggregationStr="Add" BubbleSizeHint="2" FR="" PN="" PT=""/>
-          <variable GUID="715b8180-4ad7-475e-bd71-71e395f86b7b" UVID="" BracketSourceVarGUID="" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PRE2024_001_PRE_V2" label="Por habitantes en euros" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" AggregationStr="Rate|||100000" BubbleSizeHint="1" FR="PRE_SPAIN" PN="" PT=""/>
+          <variable GUID="531e0406-371f-499b-beb9-0e38e26c75a9" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PRE2024_001_PRE_V1" label="Total en euros" qLabel="" indent="0" dataType="2" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="1" DocLinksAsString="" FR="" AggregationStr="Add" BubbleSizeHint="2" PVT="0" PVVT="0" />
+          <variable GUID="715b8180-4ad7-475e-bd71-71e395f86b7b" MTT="" MIBtext="" UVID="" PT="" PI="false" PN="" BracketSourceVarGUID="" ICD="" TP="0" DPF="0" DPT="0" BracketFromVal="0" BracketToVal="0" BracketType="None" FirstInBracketSet="false" notes="" PrivateNotes="" name="PRE2024_001_PRE_V2" label="Por habitantes en euros" qLabel="" indent="0" dataType="7" dataTypeLength="0" formatting="9" customFormatStr="" FormulaFunctionBodyCSharp="" jsf="" suppType="0" SuppField="" suppFlags="" aggMethod="8" DocLinksAsString="" FR="PRE_SPAIN" AggregationStr="Rate|||100000" BubbleSizeHint="1" PVT="0" PVVT="0" />
         </table>
       </tables>
     </SurveyDataset>
   </SurveyDatasets>
   <Categories>
     <string>Presupuestos Municipales 2022</string>
+    <string>Presupuestos municipales</string>
   </Categories>
 </survey>
