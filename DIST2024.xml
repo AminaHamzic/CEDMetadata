@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="4695c85c-5ef7-482e-8811-ff851cce2823" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="DIST2024" DisplayName="Distancias a puntos de interes y servicios" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2024" CountryName="" DocLinksAsString="" Categories="Distancias a puntos de interes y servicios;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="4695c85c-5ef7-482e-8811-ff851cce2823" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="DIST2024" DisplayName="Distancias a puntos de interes y servicios" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2024" CountryName="" DocLinksAsString="" Categories="Distancias a puntos de interes y servicios;Poblamiento;Servicios;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
@@ -159,5 +159,7 @@
   </SurveyDatasets>
   <Categories>
     <string>Distancias a puntos de interes y servicios</string>
+    <string>Poblamiento</string>
+    <string>Servicios</string>
   </Categories>
 </survey>
