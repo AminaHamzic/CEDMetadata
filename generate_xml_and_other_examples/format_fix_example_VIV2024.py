@@ -185,9 +185,9 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'EMP2013.xml','EMP2014.xml','EMP2015.xml','EMP2016.xml','EMP2017.xml','EMP2018.xml','EMP2019.xml','EMP2020.xml','EMP2021.xml','EMP2022.xml','EMP2023.xml','EMP2024.xml'}
+    projects = {'VIV2024.xml'}
 
-    project_template = 'EMP2012.xml'
+    project_template = 'VIV2019.xml'
 
     working_dir = r'C:\ExploradorSocial\CEDMetadata'
 
