@@ -185,7 +185,7 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'IPA2019.xml','IPA2020.xml'}
+    projects = {'IPA2019.xml','IPA2020.xml','IPA2021.xml','IPA2022.xml','IPA2023.xml'}
 
     project_template = 'IPA2018.xml'
 
