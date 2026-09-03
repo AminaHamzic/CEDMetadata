@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="877dbe19-de6f-421a-9646-e6e02590f775" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ENSE2022" DisplayName="Estadística de enseñanzas no universitarias 2023" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2022" CountryName="" DocLinksAsString="" Categories="ensenanza 2022;">
+<survey xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GUID="877dbe19-de6f-421a-9646-e6e02590f775" CssFile="" Visible="true" GeoTypeTreeNodeExpanded="true" GeoCorrespondenceTreeNodeExpanded="false" name="ENSE2022" DisplayName="Estadística de enseñanzas no universitarias 2022" ProductTags="" DescriptionShort="" TwoCharUniqueSurveyTag="" publisher="" year="2022" CountryName="" DocLinksAsString="" Categories="ensenanza 2022;">
   <UseOptimizedDataRetrieval>false</UseOptimizedDataRetrieval>
   <Description><![CDATA[]]></Description>
   <Notes><![CDATA[]]></Notes>
