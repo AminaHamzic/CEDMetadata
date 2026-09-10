@@ -185,11 +185,11 @@ def main(template_file, file_to_fix):
 
 if __name__ == '__main__':
 
-    projects = {'PROY2020.xml','PROY2021.xml','PROY2022.xml','PROY2023.xml','PROY2024.xml','PROY2025.xml','PROY2026.xml','PROY2027.xml','PROY2028.xml','PROY2029.xml','PROY2030.xml','PROY2031.xml','PROY2032.xml'}
+    projects = {'PROY2026.xml','PROY2027.xml','PROY2028.xml','PROY2029.xml','PROY2030.xml','PROY2031.xml','PROY2032.xml','PROY2033.xml','PROY2034.xml','PROY2035.xml','PROY2036.xml','PROY2037.xml','PROY2038.xml','PROY2039.xml','PROY2040.xml','PROY2041.xml'}
 
-    project_template = 'PROY2033.xml'
+    project_template = 'PROY2033_model.xml'
 
-    working_dir = r'C:\Users\aturu\CEDMetadata'
+    working_dir = r'C:\ExploradorSocial\CEDMetadata'
 
     for project in projects:
         print(f'Editing {project}')
